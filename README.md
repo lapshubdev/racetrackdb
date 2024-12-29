@@ -1,6 +1,6 @@
 ## RacetrackDB
 
-Welcome to RacetrackDB, an open-source database containing information about racetracks around the world! This repository is part of the LapsHub project, and its mission is to provide an up-to-date, community-maintained resource for motorsport enthusiasts, track-day organizers, and developers.
+Welcome to RacetrackDB, an open-source database containing information about racetracks around the world! This repository is part of the [LapsHub project](https://www.lapshub.com), and its mission is to provide an up-to-date, community-maintained resource for motorsport enthusiasts, track-day organizers, and developers.
 
 ### Features
 - JSON format for easy integration.
@@ -87,4 +87,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Get in Touch
 Join our community on [Discord](https://discord.gg/R8nzCjyQ) or follow our updates on Reddit at [r/LapsHub](https://reddit.com/r/LapsHub).
+
 [Visit us](https://www.lapshub.com)
