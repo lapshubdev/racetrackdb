@@ -87,3 +87,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Get in Touch
 Join our community on [Discord](https://discord.gg/R8nzCjyQ) or follow our updates on Reddit at [r/LapsHub](https://reddit.com/r/LapsHub).
+[Visit us](https://www.lapshub.com)
