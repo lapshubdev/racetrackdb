@@ -1,0 +1,7446 @@
+[
+  {
+    "id": "europe-b688477b-6c56-494a-9b97-d76fa75c4b82",
+    "name": "Circuit Canary Islands",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.937,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 28.0208621,
+      "longitude": -15.4238163
+    }
+  },
+  {
+    "id": "northamerica-2e0b5c1f-a50e-4945-ae0c-371d0bf0fcbc",
+    "name": "New York Safety Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.4867183,
+      "longitude": -74.7808602
+    }
+  },
+  {
+    "id": "371ebdb78be9432dbea0abf88d32f742",
+    "name": "Autobahn Country Club Gokart",
+    "avatar": "autobahn-avatar.png",
+    "avatarPanorama": "autobahn-panorama.jpg",
+    "length": 1,
+    "gpsShape": [
+      [
+        41.45307,
+        -88.125415
+      ],
+      [
+        41.451115,
+        -88.125293
+      ],
+      [
+        41.460224,
+        -88.117189
+      ],
+      [
+        41.453128,
+        -88.12408
+      ]
+    ],
+    "configurations": [
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f1067",
+        "name": "Autobahn Country Club South"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f106",
+        "name": "Autobahn Country Club Full"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f741",
+        "name": "Autobahn Country Club North"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f742",
+        "name": "Autobahn Country Club Gokart"
+      }
+    ],
+    "finishLinePolygon": [
+      {
+        "latitude": 41.45233136586771,
+        "longitude": -88.124607273661
+      },
+      {
+        "latitude": 41.452104197756526,
+        "longitude": -88.12461532028804
+      },
+      {
+        "latitude": 41.45209816673388,
+        "longitude": -88.12405473860393
+      },
+      {
+        "latitude": 41.45233136586771,
+        "longitude": -88.12406278523098
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 41.45233136586771,
+      "longitude": -88.124607273661
+    }
+  },
+  {
+    "id": "europe-94745ce0-2750-4cfe-8e76-618eedc8850c",
+    "name": "Sturup Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 55.5307189,
+      "longitude": 13.3573746
+    }
+  },
+  {
+    "id": "southamerica-f4281611-87e2-4cc1-afd1-c6c34bbd9a45",
+    "name": "Autódromo Internacional de Santa Cruz do Sul",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.301,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -29.7997807,
+      "longitude": -52.4364352
+    }
+  },
+  {
+    "id": "europe-37fd0dd7-6b7e-4252-8b54-20fb17efd066",
+    "name": "Anderstorp Racing Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.530999912,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 57.2615102,
+      "longitude": 13.6013041
+    }
+  },
+  {
+    "id": "europe-eaa5a43e-97e1-4115-9d39-23e894a5151c",
+    "name": "Ahvenisto Race Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.81067598,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 61.0028066,
+      "longitude": 24.4177838000001
+    }
+  },
+  {
+    "id": "europe-e2421b55-1128-4470-9c4e-f5e406e27c73",
+    "name": "Knockhill Racing Circuit Ltd",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.1313905,
+      "longitude": -3.50898970000003
+    }
+  },
+  {
+    "id": "europe-0c9669c6-098e-45e3-81b0-8cadc4fa09af",
+    "name": "Anglesey Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.412,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.1916051,
+      "longitude": -4.5011407
+    }
+  },
+  {
+    "id": "europe-dae6d4ad-340c-438e-b1af-11a9f35933e4",
+    "name": "Athens Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.54,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.9856086,
+      "longitude": 23.3606515
+    }
+  },
+  {
+    "id": "northamerica-6c9abca6-c4a6-48f8-b76c-167a62611a62",
+    "name": "Circuit Gilles Villeneuve",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.709,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.5032189,
+      "longitude": -73.5266876
+    }
+  },
+  {
+    "id": "southamerica-5a724ea1-24df-4f5f-a7d0-68a3df4307fb",
+    "name": "Autódromo Oscar Cabalén",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.764,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -31.575699,
+      "longitude": -64.3657689
+    }
+  },
+  {
+    "id": "northamerica-0dff25d4-b5b8-4b90-afa3-d5ce171a75aa",
+    "name": "Driveway Austin Motorsports",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.427,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 30.264694,
+      "longitude": -97.6572448
+    }
+  },
+  {
+    "id": "europe-e40f6e9b-5670-4801-9bc0-b1bd76a163f9",
+    "name": "Circuit de Bresse",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5486,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.5514585,
+      "longitude": 5.32862610000006
+    }
+  },
+  {
+    "id": "northamerica-f25f6ee3-9ec9-4217-b596-3761b0afb03e",
+    "name": "Ozarks International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.35,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.2702809,
+      "longitude": -92.8910026
+    }
+  },
+  {
+    "id": "northamerica-809a7353-7477-4771-96c5-7a2c9c9519fb",
+    "name": "Autódromo Internacional El Jabali",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.316,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 13.8097428,
+      "longitude": -89.3296838
+    }
+  },
+  {
+    "id": "asia-69aa49b9-c813-4d15-899c-f362f5ef7d5f",
+    "name": "Sirkuit Gelora Bung Tomo Surabaya",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.21,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -7.2275103,
+      "longitude": 112.6218135
+    }
+  },
+  {
+    "id": "europe-8fb26085-b52b-4073-874b-ab2c70397efd",
+    "name": "Circuit Carole",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.9787026,
+      "longitude": 2.5225836
+    }
+  },
+  {
+    "id": "northamerica-8863c655-cafd-4816-a408-6ac048185e57",
+    "name": "Gimli Motorsports Park Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.817,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.629944,
+      "longitude": -97.0520061
+    }
+  },
+  {
+    "id": "northamerica-af300ce6-3b8a-4fd6-9764-005497f52d3f",
+    "name": "Autodrómo Internacional de Las Américas",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.366,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 18.4646795,
+      "longitude": -69.746572
+    }
+  },
+  {
+    "id": "southamerica-ea5cc571-1b57-46f1-888d-61928c9dda31",
+    "name": "Autódromo de Tocancipá",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.1817,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 4.9608519,
+      "longitude": -73.9476868
+    }
+  },
+  {
+    "id": "africa-fcb7da4a-c742-418a-93a6-dc74d81fbf64",
+    "name": "Phakisa Freeway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.498,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -27.9045918,
+      "longitude": 26.7112522
+    }
+  },
+  {
+    "id": "asia-c3c639e9-6dae-41e8-a3a6-c79d23618be3",
+    "name": "Dubai Autodrome",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.348,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 25.0501901,
+      "longitude": 55.2397317
+    }
+  },
+  {
+    "id": "asia-034456a3-7554-4d71-b034-b97b820cae2c",
+    "name": "Fuji Speed Way",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.372247,
+      "longitude": 138.9266773
+    }
+  },
+  {
+    "id": "northamerica-80c50414-3b85-49bb-91b9-e1adf8cdcd89",
+    "name": "NCCAR",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.32,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.475054,
+      "longitude": -77.585768
+    }
+  },
+  {
+    "id": "europe-26ed8245-49dd-42f7-9a8a-ab06132c1bc9",
+    "name": "Circuit Zolder",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.267,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.9904979,
+      "longitude": 5.257984
+    }
+  },
+  {
+    "id": "northamerica-f5eb8c20-b4ab-47b6-988c-684608e786fd",
+    "name": "Charlotte Motor Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.351547,
+      "longitude": -80.686551
+    }
+  },
+  {
+    "id": "europe-d0192b41-191c-4f01-8360-8a412a9832b1",
+    "name": "Charade Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.83,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.7422569,
+      "longitude": 3.0324098
+    }
+  },
+  {
+    "id": "southamerica-9852dc32-bbc5-4074-9543-4156fef7875b",
+    "name": "Autódromo La Chutana",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.161,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -12.3984738,
+      "longitude": -76.7519206
+    }
+  },
+  {
+    "id": "asia-8d1b8e24-e76c-4b62-a0db-9862e5c216fd",
+    "name": "Madras Motor Race Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.277,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 12.99972,
+      "longitude": 79.987432
+    }
+  },
+  {
+    "id": "asia-c2ad921a-c59f-4747-8c53-0d0a718b906d",
+    "name": "Clark International Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.6,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 15.2056366,
+      "longitude": 120.5357324
+    }
+  },
+  {
+    "id": "australia-addb09b3-a9fc-4bfa-a244-5548afd2c436",
+    "name": "Manfeild Circuit Chris Amon",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.8181818181818182,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -40.235196,
+      "longitude": 175.558912
+    }
+  },
+  {
+    "id": "asia-2717b42e-80db-4638-8a73-7467d5d71254",
+    "name": "Shanghai International Circuit Co.,Ltd.",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.3956,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 31.3296915,
+      "longitude": 121.2259152
+    }
+  },
+  {
+    "id": "northamerica-964a1bc3-dc0c-4499-b755-4276bda71926",
+    "name": "Lime Rock Park Raceway, Salisbury, CT",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.53,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.9275498,
+      "longitude": -73.383306
+    }
+  },
+  {
+    "id": "northamerica-f454b1e4-1179-4468-a744-738700ed4570",
+    "name": "High Plains Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.35,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.7355962,
+      "longitude": -103.8972064
+    }
+  },
+  {
+    "id": "southamerica-b3261658-2c02-4a31-b42e-e011893caeec",
+    "name": "Potrero de los Funes",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.2225236,
+      "longitude": -66.2274112
+    }
+  },
+  {
+    "id": "582f9560-cce5-4f73-b13f-2d1b5f1a0a17",
+    "name": "Road America",
+    "avatar": "ra.png",
+    "avatarPanorama": "ra-panorama.png",
+    "length": 4.048,
+    "gpsShape": [
+      [
+        43.805061,
+        -87.997781
+      ],
+      [
+        43.804079,
+        -87.989506
+      ],
+      [
+        43.791934,
+        -87.989167
+      ],
+      [
+        43.793535,
+        -88.003849
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 43.797910625122995,
+        "longitude": -87.98975976076265
+      },
+      {
+        "latitude": 43.797796402224044,
+        "longitude": -87.98975841965814
+      },
+      {
+        "latitude": 43.79779833820717,
+        "longitude": -87.98944191899439
+      },
+      {
+        "latitude": 43.79791352909216,
+        "longitude": -87.9894446012034
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 43.797868,
+      "longitude": -87.989633
+    }
+  },
+  {
+    "id": "europe-04717db5-4596-429c-ab9f-32263b6371dc",
+    "name": "Circuit Automobile Paul Ricard",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.281,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.2517169,
+      "longitude": 5.7927315
+    }
+  },
+  {
+    "id": "southamerica-b5eb9006-1f00-49ed-b7c6-1c42b4be17d2",
+    "name": "Autódromo Internacional de Curitiba",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.608,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -25.444717,
+      "longitude": -49.1956879
+    }
+  },
+  {
+    "id": "europe-2396af0f-b3bc-4a49-aec6-0e9c3b91aad5",
+    "name": "Motopark Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.892,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 62.0578509,
+      "longitude": 27.5586761
+    }
+  },
+  {
+    "id": "northamerica-75cc0fa9-d79b-4a39-a401-8ba592af7922",
+    "name": "Auto Club Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.842,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.0850884,
+      "longitude": -117.4942667
+    }
+  },
+  {
+    "id": "europe-423faf89-0c68-4ab9-8cd4-4d5ad923f00e",
+    "name": "Mantorp Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.441196,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 58.3699472,
+      "longitude": 15.283184
+    }
+  },
+  {
+    "id": "northamerica-16421a53-0eab-4471-90e3-ced7c9a36770",
+    "name": "Talladega Gran Prix Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.66,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.5067831,
+      "longitude": -85.999166
+    }
+  },
+  {
+    "id": "northamerica-c34cc951-fe0f-4e89-9aec-9f5a2e3958fb",
+    "name": "Barber Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.38,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.5318079,
+      "longitude": -86.6189146
+    }
+  },
+  {
+    "id": "asia-eefcaffe-a28f-4973-8d26-e68ec2f7947a",
+    "name": "Jiangsu Wantrack International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.379,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 31.672028,
+      "longitude": 119.037483
+    }
+  },
+  {
+    "id": "europe-1fad526c-beca-45e7-8179-b0956a782dd0",
+    "name": "Mittsverigebanan",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 452,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 62.5995167,
+      "longitude": 17.8150796
+    }
+  },
+  {
+    "id": "europe-bf20462b-21f1-4379-8a14-25bbc59d419e",
+    "name": "Mugello Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.259,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.9965935,
+      "longitude": 11.3713239
+    }
+  },
+  {
+    "id": "europe-3a05bb59-85e8-445e-89a5-42d12e0fab8f",
+    "name": "Autodrome de Linas-Montlhéry",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5487,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.623051,
+      "longitude": 2.248303
+    }
+  },
+  {
+    "id": "europe-943d6377-6e43-4107-961b-b54373e2fd82",
+    "name": "Sjællandsringen, FDM Safe Driving Systems",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.778875,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 55.600662,
+      "longitude": 12.141242
+    }
+  },
+  {
+    "id": "northamerica-eb8b9e8c-0580-4468-b932-dd5b90d2f810",
+    "name": "NOLA Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3799,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 29.8932349,
+      "longitude": -90.1898276
+    }
+  },
+  {
+    "id": "northamerica-9d411892-9153-4212-bb75-59a2b89aac21",
+    "name": "JenningsGP",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.53086,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 30.5752318,
+      "longitude": -83.157096
+    }
+  },
+  {
+    "id": "northamerica-c731546f-752a-43f4-a522-944c49a91437",
+    "name": "Autódromo de León",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4625,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 21.0336598,
+      "longitude": -101.5734796
+    }
+  },
+  {
+    "id": "europe-197d8884-135d-48c0-aa87-d4f2f43a9055",
+    "name": "Autodromo Valle dei Templi",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.24,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.3852778,
+      "longitude": 13.7536110999999
+    }
+  },
+  {
+    "id": "europe-cb98c24f-bd2e-4841-9f90-26f04dec14c0",
+    "name": "Circuit Paul Armagnac",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.907,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.7660938,
+      "longitude": -0.038123700000028
+    }
+  },
+  {
+    "id": "northamerica-368bb4c1-b065-46d6-8668-9cc0171318f7",
+    "name": "Castrol Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.3125,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.333815,
+      "longitude": -113.5907864
+    }
+  },
+  {
+    "id": "asia-5d6615e2-d796-4863-a9d1-bd924cd91906",
+    "name": "Nakayama circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.466666666666667,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.7834037,
+      "longitude": 134.1772478
+    }
+  },
+  {
+    "id": "europe-84c377ee-15c9-4e17-8bf8-0e03f719628f",
+    "name": "Hungaroring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5076,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.5817111,
+      "longitude": 19.2506106
+    }
+  },
+  {
+    "id": "europe-c466df7e-e002-40ab-9724-ec9b68ed3343",
+    "name": "Raceway Venray",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.4001,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.5219167,
+      "longitude": 5.8764361
+    }
+  },
+  {
+    "id": "asia-d514abc7-19b2-4ba6-9b4e-7dcb0fd0aa4f",
+    "name": "Ebisu Circuit West Course",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.86,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.6396096,
+      "longitude": 140.3710159
+    }
+  },
+  {
+    "id": "southamerica-26d13e54-a5df-484e-8f77-a2728fa919d8",
+    "name": "Autódromo José Carlos Pace",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.689,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -23.701185,
+      "longitude": -46.6979544
+    }
+  },
+  {
+    "id": "europe-91b8abad-c723-4305-91ac-807c73481275",
+    "name": "Pannonia-Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 7.821,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.3046402,
+      "longitude": 17.0474043
+    }
+  },
+  {
+    "id": "europe-8b138169-3b55-4398-a525-4048a2cf0b55",
+    "name": "Autodromo Del Levante di Safe & Emotion",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.53,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.996234,
+      "longitude": 16.744219
+    }
+  },
+  {
+    "id": "asia-24a5a28b-d00e-427b-96d9-ac08d5070476",
+    "name": "Sendai Hi-Land Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.43624,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.2916815,
+      "longitude": 140.6299259
+    }
+  },
+  {
+    "id": "europe-297f997a-5169-46a4-82f4-1714945cf231",
+    "name": "Circuit Nevers Magny Cours",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.251,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.8615409,
+      "longitude": 3.163392
+    }
+  },
+  {
+    "id": "asia-f7480548-77db-484a-9cb7-08804cdb5019",
+    "name": "Asan Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.747,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.089181,
+      "longitude": 133.858196
+    }
+  },
+  {
+    "id": "europe-95dc53e7-e324-4877-98a7-6ce6ca02d003",
+    "name": "Circuito Estoril",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.30959333,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.7505686,
+      "longitude": -9.3941956
+    }
+  },
+  {
+    "id": "europe-e2d620a6-a075-4279-9141-f2a16a874c03",
+    "name": "Autodrome St. Petersburg",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.02,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 59.7810838,
+      "longitude": 30.452035
+    }
+  },
+  {
+    "id": "europe-521bcc42-c581-4255-b614-66bb596cd4b4",
+    "name": "Llandow Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.35,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.4326003,
+      "longitude": -3.4954839
+    }
+  },
+  {
+    "id": "europe-46ab792c-8f62-4362-ab26-90b9e302bc19",
+    "name": "Ciudad del Motor de Aragón",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.77,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.0782998,
+      "longitude": -0.204534500000022
+    }
+  },
+  {
+    "id": "northamerica-22af2484-2b22-4ac6-8beb-5a5d707ca09f",
+    "name": "Autódromo Tangamanga",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.25941,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 22.1824993,
+      "longitude": -100.9907802
+    }
+  },
+  {
+    "id": "europe-cc513644-6a86-49ee-8a22-460b805a85c0",
+    "name": "Alastaro Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.549,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 60.9779233,
+      "longitude": 22.6624274000001
+    }
+  },
+  {
+    "id": "asia-27c28a0f-0cb9-494a-97e5-fb8ffeed0b39",
+    "name": "İzmir Ülkü Yarış Pisti (İzmir Park)",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.927,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.433345,
+      "longitude": 27.271199
+    }
+  },
+  {
+    "id": "europe-4683c60c-c522-4c94-aa3b-94857db906f9",
+    "name": "Eurocircuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.9414,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.3348338,
+      "longitude": 5.42442770000002
+    }
+  },
+  {
+    "id": "asia-bcad7326-8005-4b74-9def-3a4a164685dc",
+    "name": "Guangdong International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.817,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 23.27354,
+      "longitude": 112.824293
+    }
+  },
+  {
+    "id": "africa-88d40c70-89c6-4c4e-babf-6ed61c9d5503",
+    "name": "Kyalami Grand Prix Circuit & International Convention Centre",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.279,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -25.9943104,
+      "longitude": 28.0712277
+    }
+  },
+  {
+    "id": "southamerica-697ba1e8-14ae-446f-9bf5-9c970adc53a4",
+    "name": "Autódromo Ciudad de Nueve de Julio",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.249,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -35.434712,
+      "longitude": -60.9085013
+    }
+  },
+  {
+    "id": "europe-ac8f27ec-b24d-41ce-9846-0e4bed9db689",
+    "name": "Vaison Piste",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.922,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.762535,
+      "longitude": 4.442554
+    }
+  },
+  {
+    "id": "northamerica-4746c19b-573e-4441-a0b7-78a7a314974c",
+    "name": "Toronto Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.416,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.8989655,
+      "longitude": -79.8569676
+    }
+  },
+  {
+    "id": "europe-9e431002-4e96-43fa-a59d-278c9672d0da",
+    "name": "Euroring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.117,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.1476703,
+      "longitude": 19.458847
+    }
+  },
+  {
+    "id": "northamerica-e51ba3fe-8c3b-44cc-bd4d-7ea655072db5",
+    "name": "World Wide Technology Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.6507543,
+      "longitude": -90.1353549
+    }
+  },
+  {
+    "id": "africa-9a54728d-6ad1-4689-8627-58ef80699d65",
+    "name": "Zwartkops Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.862,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -25.8101221,
+      "longitude": 28.1100732
+    }
+  },
+  {
+    "id": "northamerica-ca21b86a-d28b-4d59-979f-3eaa01d53139",
+    "name": "ICAR Mirabel - motorsports complex",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.43,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.6810411,
+      "longitude": -74.0250428
+    }
+  },
+  {
+    "id": "northamerica-afe6de7c-0752-4435-981f-a652c2304bf3",
+    "name": "La Junta Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.445,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.0431245,
+      "longitude": -103.5177121
+    }
+  },
+  {
+    "id": "northamerica-e918f3df-d230-4419-8399-13f7662e6d22",
+    "name": "The FIRM",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.554119,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 29.8435707,
+      "longitude": -82.0566487
+    }
+  },
+  {
+    "id": "northamerica-57038b52-90c9-4312-be79-8e3602116e82",
+    "name": "Canaan Motor Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.51,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.649833,
+      "longitude": -72.0001458
+    }
+  },
+  {
+    "id": "northamerica-47e758b5-2659-4fbc-956c-410ee34e6097",
+    "name": "Bushy Park Barbados",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.73048,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 13.137927,
+      "longitude": -59.4671654
+    }
+  },
+  {
+    "id": "europe-b0a76150-e1ae-45c4-9ea4-ec75ea09089b",
+    "name": "Circuit d'Albi",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3217228,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.9141339,
+      "longitude": 2.1136723
+    }
+  },
+  {
+    "id": "northamerica-25436052-885b-4ce9-8757-35384c3adfc4",
+    "name": "Eagles Canyon Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.437,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.3668556,
+      "longitude": -97.4270742
+    }
+  },
+  {
+    "id": "australia-7ec48b3c-7050-49c7-b4f8-f9bfa464af71",
+    "name": "Mount Panorama Motor Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.863,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.4394191,
+      "longitude": 149.5579052
+    }
+  },
+  {
+    "id": "northamerica-126a4d37-e3d6-452e-8e19-73239e8ad66a",
+    "name": "Harris Hill Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.7,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 29.9201124,
+      "longitude": -97.8744759
+    }
+  },
+  {
+    "id": "southamerica-df5fe1ba-a6df-47a7-a4a8-7a2b6841a300",
+    "name": "Autodromo De Viedma",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.21,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -40.8585627,
+      "longitude": -63.0156489
+    }
+  },
+  {
+    "id": "europe-9682ca99-a8f3-4f36-acc0-b2169b3f25f3",
+    "name": "Dijon-Prenois",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.387,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.3643658,
+      "longitude": 4.8998657
+    }
+  },
+  {
+    "id": "australia-96be225c-b910-4b79-95b1-6a3e792c4607",
+    "name": "Broadford Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.753,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -37.2112854,
+      "longitude": 145.0863698
+    }
+  },
+  {
+    "id": "europe-2dc94916-e0c0-489a-8468-1b156acaa81a",
+    "name": "Circuit du Var Luc",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.54,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.3472948,
+      "longitude": 6.3325149
+    }
+  },
+  {
+    "id": "australia-a925f743-ff8f-40fa-83b7-55d21fa7ce7f",
+    "name": "Bruce McLaren Motorsport Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.439,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -38.6619276,
+      "longitude": 176.1470672
+    }
+  },
+  {
+    "id": "southamerica-a20d2a56-14c2-4014-96d8-bad2edb29fe3",
+    "name": "Autódromo Internacional Ayrton Senna",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.605,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -23.2825673,
+      "longitude": -51.1688088
+    }
+  },
+  {
+    "id": "europe-72a79f42-a569-4834-abd2-706548f39b38",
+    "name": "Circuit Clastres",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.915,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.7486183,
+      "longitude": 3.21177420000004
+    }
+  },
+  {
+    "id": "northamerica-42f7cec5-4d64-467b-bd09-8fa26c45fb15",
+    "name": "Heartland Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.28,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.9325189,
+      "longitude": -95.678367
+    }
+  },
+  {
+    "id": "europe-3158b0fb-09d4-4ee4-8dc9-e29dc3e13a8e",
+    "name": "Circuito Guadix",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.838,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.4011458,
+      "longitude": -3.06945730000007
+    }
+  },
+  {
+    "id": "northamerica-2ff149ab-5860-4306-a3f8-c93fcb697755",
+    "name": "MidPond Raceway & Events Complex",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.366,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.1945571,
+      "longitude": -86.6844863
+    }
+  },
+  {
+    "id": "europe-67e7484d-b0dd-4060-bff5-d3ff12813fde",
+    "name": "Circuits automobiles LFG",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.7579086,
+      "longitude": 3.283377
+    }
+  },
+  {
+    "id": "southamerica-575d8cfa-10b3-41e4-ac58-411607c474a2",
+    "name": "Autódromo Rosendo Hernández",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.402,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.3335909,
+      "longitude": -66.3938026
+    }
+  },
+  {
+    "id": "europe-e68b30fe-f1a7-40e9-801a-cee4c272038c",
+    "name": "Circuit d'Alcarràs",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3503,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.6182964,
+      "longitude": 0.402338099999952
+    }
+  },
+  {
+    "id": "southamerica-e46974b5-a158-42fa-afc7-a2b5f9c72dd6",
+    "name": "Autódromo Juan Manuel Fangio",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.3298,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -37.880182,
+      "longitude": -58.2662312
+    }
+  },
+  {
+    "id": "australia-465243b8-3739-4af5-8da1-9ed314683631",
+    "name": "Pukekohe Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.0625,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -37.2183165,
+      "longitude": 174.9151174
+    }
+  },
+  {
+    "id": "europe-53bbceee-e9be-4046-ab35-efac2b9a6c1b",
+    "name": "Circuit du Laquais",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.235895,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.4667337,
+      "longitude": 5.2962067
+    }
+  },
+  {
+    "id": "europe-afc7ac37-88e0-4e29-a031-3eeb1bbc338e",
+    "name": "Circuit 24 Hours of Le Mans",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 13.629,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.9560052,
+      "longitude": 0.207870500000013
+    }
+  },
+  {
+    "id": "asia-4c73a101-f755-4863-b9eb-d993fe73cfd7",
+    "name": "Inje Speedium",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.96,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.0011497,
+      "longitude": 128.2920897
+    }
+  },
+  {
+    "id": "europe-13452529-a86b-40c5-a15b-1ff35c35c094",
+    "name": "Circuit de Mireval",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.938,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.5234738,
+      "longitude": 3.7914763
+    }
+  },
+  {
+    "id": "europe-9f8e824e-4283-4f92-bc06-7f075f847095",
+    "name": "Oulton Park Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.7608695652,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.181246,
+      "longitude": -2.6165877
+    }
+  },
+  {
+    "id": "southamerica-a1c09d5d-6f5b-42ac-b1ca-11d7e9138fbf",
+    "name": "International Autodromo Termas De Rio Hondo",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.368,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -27.5124043,
+      "longitude": -64.9177472
+    }
+  },
+  {
+    "id": "europe-255b05da-49a5-4294-9018-f8d3520a5df3",
+    "name": "AB Motorbanan Ring Knutstorp",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.337,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 55.9886,
+      "longitude": 13.1124001000001
+    }
+  },
+  {
+    "id": "northamerica-db538ebc-20ce-491b-b312-436806e25917",
+    "name": "Sanair Super Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.5289044,
+      "longitude": -72.8818267
+    }
+  },
+  {
+    "id": "asia-98f6f6a7-22a2-4158-b8dd-d24c5eac46f4",
+    "name": "Suzuka Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.609,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.8455935,
+      "longitude": 136.5389522
+    }
+  },
+  {
+    "id": "southamerica-5d1eb948-c440-40fa-8b7a-d96af23a5c1b",
+    "name": "Autódromo Vegas de Quilaco",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.65658,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -40.2583109,
+      "longitude": -73.0299402
+    }
+  },
+  {
+    "id": "northamerica-a6ef7da4-6ee0-4ded-bfc7-6836a5f4a1c6",
+    "name": "Motorsport Park Hastings",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5025,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.578467,
+      "longitude": -98.3528166
+    }
+  },
+  {
+    "id": "europe-27c94735-3810-4703-95c9-e03bc0e317ea",
+    "name": "Rába-ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.5403573,
+      "longitude": 17.7008069
+    }
+  },
+  {
+    "id": "northamerica-f58ec822-56f8-494b-aca9-2bd111525066",
+    "name": "Watkins Glen International",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.45,
+    "gpsShape": [
+      [
+        42.327564,
+        -76.931605
+      ],
+      [
+        42.3450297,
+        -76.9317415
+      ],
+      [
+        42.3438852,
+        -76.920166
+      ],
+      [
+        42.330042,
+        -76.917763
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 42.341045119732684,
+        "longitude": -76.92910658496939
+      },
+      {
+        "latitude": 42.34102746818795,
+        "longitude": -76.92873310601239
+      },
+      {
+        "latitude": 42.341339223728276,
+        "longitude": -76.92870226060872
+      },
+      {
+        "latitude": 42.34134963207418,
+        "longitude": -76.92908715760234
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 42.3382811,
+      "longitude": -76.9263577
+    }
+  },
+  {
+    "id": "europe-ac553b22-494e-4cbe-ae57-34b553fd5161",
+    "name": "Smolenskoye Kol'tso",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.82,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 54.9877776,
+      "longitude": 33.3669886
+    }
+  },
+  {
+    "id": "asia-09a182e7-c944-494f-8f95-1fabc6bf9682",
+    "name": "Korea International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.439,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.7381177,
+      "longitude": 126.4154292
+    }
+  },
+  {
+    "id": "northamerica-07c529af-7908-4522-86ec-af927b6a5494",
+    "name": "Pittsburgh International Race Complex",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.8,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.849989,
+      "longitude": -80.343192
+    }
+  },
+  {
+    "id": "europe-9c434fe6-9c60-4d30-af2c-f8ebd4f5f77c",
+    "name": "Bilster Berg",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.429,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.793583,
+      "longitude": 9.05854
+    }
+  },
+  {
+    "id": "europe-ccb99086-ead7-402d-81a8-c887b261a519",
+    "name": "Adria International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.62083,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.0442638,
+      "longitude": 12.1511505
+    }
+  },
+  {
+    "id": "northamerica-ec808ae8-df88-41f5-aa76-80807d1b929d",
+    "name": "Autodromo of Queretaro",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25855,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 20.58643,
+      "longitude": -100.328616
+    }
+  },
+  {
+    "id": "europe-bdc1e0ff-8c0b-40a1-aa98-8fd9fd80aa57",
+    "name": "Castle Combe Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5468,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.4934881,
+      "longitude": -2.21786940000004
+    }
+  },
+  {
+    "id": "e5361c5f-99d3-481e-b02a-53dff5e9c3de",
+    "name": "Milwaukee Mile",
+    "avatar": "mm-avatar.jpg",
+    "avatarPanorama": "mm-panorama.jpg",
+    "length": 1.8,
+    "gpsShape": [
+      [
+        43.023908,
+        -88.013709
+      ],
+      [
+        43.023798,
+        -88.008441
+      ],
+      [
+        43.017878,
+        -88.008248
+      ],
+      [
+        43.01773644107526,
+        -88.01345750501818
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 43.020440620055936,
+        "longitude": -88.01304155982211
+      },
+      {
+        "latitude": 43.02043816881737,
+        "longitude": -88.0127632806368
+      },
+      {
+        "latitude": 43.020470034910325,
+        "longitude": -88.01276059842779
+      },
+      {
+        "latitude": 43.02047101540523,
+        "longitude": -88.01303954816534
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 43.020439,
+      "longitude": -88.0129
+    }
+  },
+  {
+    "id": "northamerica-f6ee2eee-6e7e-456d-b12c-7df5ece89e1d",
+    "name": "Summit Point Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.294,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.2428811,
+      "longitude": -77.9727582
+    }
+  },
+  {
+    "id": "europe-ddb5d799-014f-4fa1-8a7b-4a60c38cfea0",
+    "name": "Circuito Monteblanco",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3568,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.3591185,
+      "longitude": -6.5711467
+    }
+  },
+  {
+    "id": "europe-90c592b9-2fa2-4c46-bc48-2fd25d439bde",
+    "name": "Circuit Park Zandvoort",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.3408,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.3877081,
+      "longitude": 4.5442128
+    }
+  },
+  {
+    "id": "europe-9b7d1454-9a0c-4871-a83f-6e4d6d3fc8d5",
+    "name": "Ricardo Tormo Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.49,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.4868633,
+      "longitude": -0.629869699999972
+    }
+  },
+  {
+    "id": "europe-c63c9c1d-a938-452c-8a05-beafd5108200",
+    "name": "Circuit du Val de Vienne",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.149,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.1962084,
+      "longitude": 0.632698799999957
+    }
+  },
+  {
+    "id": "australia-e5e15bd5-7e1b-4854-868e-e8a66b25b5cc",
+    "name": "The Bend Motorsport Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.98,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -35.3083628,
+      "longitude": 139.5106421
+    }
+  },
+  {
+    "id": "europe-228768e2-6fea-4261-8acc-83ad323c554d",
+    "name": "Circuit de Croix-en-Ternois",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.991,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.3785631,
+      "longitude": 2.29792
+    }
+  },
+  {
+    "id": "northamerica-670d4180-0bdf-4c3e-8201-8f2e938a99c6",
+    "name": "Streets of Willow Springs",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.58,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.8747469,
+      "longitude": -118.2591121
+    }
+  },
+  {
+    "id": "northamerica-8d2e2963-f71a-4709-8aa0-1660a2508729",
+    "name": "Club Motorsports",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.8230258,
+      "longitude": -71.2491475
+    }
+  },
+  {
+    "id": "europe-569c1eeb-8f7a-41df-ba6b-2667ef1843c3",
+    "name": "TT Circuit Assen",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.822,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.9583015,
+      "longitude": 6.522342
+    }
+  },
+  {
+    "id": "asia-f152636c-ddff-47ee-a6d7-3fc83e470055",
+    "name": "Central circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.427,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.024955,
+      "longitude": 134.9220706
+    }
+  },
+  {
+    "id": "europe-15f06f85-de49-43ac-9840-9134a8326cca",
+    "name": "Motorsport Arena Oschersleben",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.39,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.026636,
+      "longitude": 11.278425
+    }
+  },
+  {
+    "id": "southamerica-79638be4-f761-4dbb-8c7e-171724ef07a4",
+    "name": "Autódromo Parque de la Velocidad de San Jorge",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.742,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -31.9119333,
+      "longitude": -61.8669967
+    }
+  },
+  {
+    "id": "australia-f447714c-47c6-4ee2-944a-53d0dafa8fac",
+    "name": "Mallala Motorsport Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.6336,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.4164557,
+      "longitude": 138.5041988
+    }
+  },
+  {
+    "id": "northamerica-53e25bfd-3628-4462-b025-cd4734321235",
+    "name": "NCM Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.9970956,
+      "longitude": -86.3729674
+    }
+  },
+  {
+    "id": "europe-f236379b-4906-4ce4-9895-918c91dd83a5",
+    "name": "Circuit De Fontenay-Le-Comte -",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.4388178,
+      "longitude": -0.792889599999967
+    }
+  },
+  {
+    "id": "europe-855e4dfc-cb7c-4d4f-9b26-c106400b2c89",
+    "name": "Circuito Mallorca",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 45.9,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.494371,
+      "longitude": 2.793788
+    }
+  },
+  {
+    "id": "asia-a826b4bf-feea-4327-a33a-3659a2063b95",
+    "name": "Chang International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.545,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 14.9579714,
+      "longitude": 103.0849254
+    }
+  },
+  {
+    "id": "asia-9a2c78af-1dc2-4ad0-bfe9-5f586fd5f38a",
+    "name": "Yas Marina Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.451,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 24.4699358,
+      "longitude": 54.6054596
+    }
+  },
+  {
+    "id": "europe-b23dcaeb-bcdf-4ec6-85ca-c918df49c711",
+    "name": "Circuito De Braga",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.5882266,
+      "longitude": -8.4456576
+    }
+  },
+  {
+    "id": "europe-fcf4e7d7-3ae0-4c75-9155-5acd9c23d4a0",
+    "name": "Autodrom Beranovac",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.47,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.700057,
+      "longitude": 20.712308
+    }
+  },
+  {
+    "id": "europe-4c0f5f61-d24e-403b-b393-01440ef39fdd",
+    "name": "Autodromo di Pergusa",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.9974,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.5203528,
+      "longitude": 14.3047947
+    }
+  },
+  {
+    "id": "northamerica-c1123e5a-1ba7-4f84-b2c6-62ce50bb9c58",
+    "name": "Thompson Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.9819209,
+      "longitude": -71.827928
+    }
+  },
+  {
+    "id": "asia-49269dc2-235b-435f-afb9-b7f589640078",
+    "name": "TOSFED Körfez Yarış Pisti",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.373,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.7426605,
+      "longitude": 29.785545
+    }
+  },
+  {
+    "id": "southamerica-e561b3fd-bd2a-40e9-8906-974037218f92",
+    "name": "Autódromo Roberto Hirch",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.7502,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -38.2400575,
+      "longitude": -57.9169086
+    }
+  },
+  {
+    "id": "europe-bcd2bbc4-75dc-43ce-bc1e-9b1335167ad8",
+    "name": "Circuit de Lédenon",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.547,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.9236779,
+      "longitude": 4.50658620000002
+    }
+  },
+  {
+    "id": "asia-df773c29-414f-4772-868f-1c2280ec54b9",
+    "name": "TIS",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.464,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.6299248,
+      "longitude": 143.2916863
+    }
+  },
+  {
+    "id": "asia-0395ad22-bdf6-4166-b3fc-ac21e2106167",
+    "name": "AUDI Goldenport Motor Park （West Gate 1）",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.87178716,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.0133271,
+      "longitude": 116.5630849
+    }
+  },
+  {
+    "id": "europe-b309bf4e-022c-484a-a886-50b259c801cc",
+    "name": "Brands Hatch Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.922,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.3581048,
+      "longitude": 0.25582780000002
+    }
+  },
+  {
+    "id": "northamerica-3842be59-50f2-415f-bf10-b8a13ebf53bb",
+    "name": "Sandia Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.749,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.0209955,
+      "longitude": -106.8603228
+    }
+  },
+  {
+    "id": "19192dce-159d-4141-af9e-a7bff2a35fe4",
+    "name": "Laguna Seca",
+    "avatar": "laguna-avatar.jpg",
+    "avatarPanorama": "laguna-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": [
+      [
+        36.588925,
+        -121.754628
+      ],
+      [
+        36.586372,
+        -121.747459
+      ],
+      [
+        36.578755,
+        -121.750143
+      ],
+      [
+        36.581734,
+        -121.759764
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 36.58653549526127,
+        "longitude": -121.75679189581297
+      },
+      {
+        "latitude": 36.58640088889255,
+        "longitude": -121.75653172153852
+      },
+      {
+        "latitude": 36.58622213127201,
+        "longitude": -121.75673556942365
+      },
+      {
+        "latitude": 36.5863521613292,
+        "longitude": -121.75696758050344
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 36.586461,
+      "longitude": -121.756646
+    }
+  },
+  {
+    "id": "southamerica-b8322f2a-ad95-48b0-b315-fda2b7846fbe",
+    "name": "Autódromo Juan y Oscar Gálvez",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.249,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.6934345,
+      "longitude": -58.4590912
+    }
+  },
+  {
+    "id": "europe-56a6c9ea-fb2f-4125-a318-176b132519f7",
+    "name": "Circuito de Velocidad de Cartagena",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.711,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.6423531,
+      "longitude": -1.03524820000007
+    }
+  },
+  {
+    "id": "northamerica-0e9b098d-1097-4a83-9d05-e2fea2547a70",
+    "name": "Sebring International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.74,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 27.4550124,
+      "longitude": -81.3496801
+    }
+  },
+  {
+    "id": "australia-45f3b93e-2ebd-4511-9106-309e60afc140",
+    "name": "Barbagallo Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.8925,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -31.6653327,
+      "longitude": 115.7886004
+    }
+  },
+  {
+    "id": "europe-96e1cfa9-9e72-4482-8c79-187f3a77b18e",
+    "name": "Tipperary Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.3267,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.4676208,
+      "longitude": -7.79312970000001
+    }
+  },
+  {
+    "id": "europe-14e12e53-bbfe-461b-8191-4e3c111feb7e",
+    "name": "Circuit Sele",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.367,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.6043175,
+      "longitude": 14.9480529
+    }
+  },
+  {
+    "id": "northamerica-2e35b230-1e74-4864-9da2-b644587aa40a",
+    "name": "The Thermal Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.369,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.6018698,
+      "longitude": -116.1628116
+    }
+  },
+  {
+    "id": "europe-192fc7f1-a36e-4553-af10-a7d0f458b43c",
+    "name": "Misano World Circuit Marco Simoncelli",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5639,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.961376,
+      "longitude": 12.6859581
+    }
+  },
+  {
+    "id": "asia-c2c33497-9852-4634-b7d7-1fee1eebb67d",
+    "name": "Thailand Circuit Nakhornchaisri",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.816,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 13.91119,
+      "longitude": 100.167551
+    }
+  },
+  {
+    "id": "europe-10541a86-c3cf-4e6d-aaeb-49596846a8d6",
+    "name": "Circuit De Maison Blanche",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.379,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.9450571,
+      "longitude": 0.210037899999975
+    }
+  },
+  {
+    "id": "europe-549181de-8f58-40ce-805a-23e63d34e2c8",
+    "name": "Autodrom Slomczyn | track Słomczyn",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.008,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.878875,
+      "longitude": 20.926832
+    }
+  },
+  {
+    "id": "southamerica-2a7c2f2e-3c01-429d-9395-487859bb73cd",
+    "name": "Autódromo Internacional José Carlos Bassi",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.660559,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.6833621,
+      "longitude": -65.4937683
+    }
+  },
+  {
+    "id": "europe-68c7f72c-18e4-41a2-8e6f-677142a5fad0",
+    "name": "Aintree Motor Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 4,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.4756341,
+      "longitude": -2.93776990000003
+    }
+  },
+  {
+    "id": "europe-d641c640-e9be-4de6-be95-4e0bf784ccde",
+    "name": "Wachauring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.838749,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.2124991,
+      "longitude": 15.3278159
+    }
+  },
+  {
+    "id": "southamerica-a2d24518-534f-468f-992a-2c563a3a4fb8",
+    "name": "Autódromo Eusebio Marcilla",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3541666666666665,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.6540703,
+      "longitude": -61.020244
+    }
+  },
+  {
+    "id": "northamerica-d78381ac-5c41-41fd-86b2-b3d55f4c6aa5",
+    "name": "Grandsport Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 29.3266109,
+      "longitude": -95.0485151
+    }
+  },
+  {
+    "id": "northamerica-5b2c19f0-4500-4bd8-b833-295646db5cba",
+    "name": "Texas Motor Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.0373212,
+      "longitude": -97.2821274
+    }
+  },
+  {
+    "id": "asia-c68eee35-b339-4bbb-a3c9-96d5e8a61377",
+    "name": "Carmona Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.4348,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 14.281724,
+      "longitude": 121.008924
+    }
+  },
+  {
+    "id": "australia-b65e41cf-72ae-4e22-9997-ef5de0a3f319",
+    "name": "Morgan Park Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.4119,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -28.2623035,
+      "longitude": 152.0311678
+    }
+  },
+  {
+    "id": "europe-baf09abb-2773-42c0-8c4f-4ace36bb62dd",
+    "name": "Circuito Istituto Sperimentale Auto e Motori",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.27,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.7051283,
+      "longitude": 13.1430451
+    }
+  },
+  {
+    "id": "europe-ef41e5f3-ac2d-4ee4-89f5-cafce53c86d5",
+    "name": "Pembrey Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.402,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.7052918,
+      "longitude": -4.32369240000003
+    }
+  },
+  {
+    "id": "europe-2fc34d82-704a-49a7-8df0-a0db0a1e8daf",
+    "name": "Kirkistown Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.715,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 54.4561347,
+      "longitude": -5.4734122
+    }
+  },
+  {
+    "id": "asia-b2cd7089-b9e3-447e-af6d-562fb8de36f1",
+    "name": "Sentul International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -6.5364484,
+      "longitude": 106.8572706
+    }
+  },
+  {
+    "id": "northamerica-ffc79895-9f6b-4e0b-bfff-27007a6dd328",
+    "name": "Grattan Raceway",
+    "avatar": "grattan-avatar.jpg",
+    "avatarPanorama": "grattan-panorama.jpg",
+    "length": 1.4142086,
+    "gpsShape": [
+      [
+        43.09704690161831,
+        -85.39441287350114
+      ],
+      [
+        43.09952244899105,
+        -85.37743985634216
+      ],
+      [
+        43.094727943675565,
+        -85.37692487225644
+      ],
+      [
+        43.09295732882816,
+        -85.39205252977487
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 43.09612347084538,
+        "longitude": -85.38435046900453
+      },
+      {
+        "latitude": 43.09600203927136,
+        "longitude": -85.38431828249635
+      },
+      {
+        "latitude": 43.09602358360045,
+        "longitude": -85.38418014873209
+      },
+      {
+        "latitude": 43.09614697370287,
+        "longitude": -85.38421367634477
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 43.096067867480194,
+      "longitude": -85.38428552370061
+    }
+  },
+  {
+    "id": "europe-5d618647-b6a7-4017-bb25-e0e1182aef0d",
+    "name": "Serres Racing Circuit - Αυτοκινητοδρόμιο",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.632,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.0725601,
+      "longitude": 23.5177443
+    }
+  },
+  {
+    "id": "asia-bc2865ad-e1bd-4ea5-8b8e-9a65528f23b8",
+    "name": "Twin Ring Motegi",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.549,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.531954,
+      "longitude": 140.2253966
+    }
+  },
+  {
+    "id": "europe-70095872-3130-4541-ac1d-476ca08e5d7c",
+    "name": "Autodromo Riccardo Paletti",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.506,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.6809723,
+      "longitude": 10.0228738000001
+    }
+  },
+  {
+    "id": "southamerica-37fb0e94-92e7-4a74-883b-319da6251521",
+    "name": "International Autodrome Turagua Pancho Pepe Croquer",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.42025,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 10.1392221,
+      "longitude": -67.5075259
+    }
+  },
+  {
+    "id": "asia-b136d0eb-363f-49e4-acf0-46647cb73803",
+    "name": "SPA Naoiri",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.48,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.1013939,
+      "longitude": 131.4093
+    }
+  },
+  {
+    "id": "northamerica-46bf97e1-6c41-44d3-a843-3436291f8ebd",
+    "name": "Grand Bend Motorplex",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.815077,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.2933105,
+      "longitude": -81.7194525
+    }
+  },
+  {
+    "id": "northamerica-c73dc617-d884-4248-9283-7bcc29f84d5c",
+    "name": "Vancouver Island Motorsport Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.258,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.800771,
+      "longitude": -123.779721
+    }
+  },
+  {
+    "id": "northamerica-683a8676-9a10-474b-b9e8-be3cfdd8e2d9",
+    "name": "Englishtown Raceway Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.625,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.3333147,
+      "longitude": -74.3493443
+    }
+  },
+  {
+    "id": "northamerica-6271c142-51ad-44b8-8fa6-cdf523382de6",
+    "name": "The Ridge Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4718,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.2548686,
+      "longitude": -123.1914352
+    }
+  },
+  {
+    "id": "europe-b8fb9999-e69d-4150-a233-7d9f1f07c713",
+    "name": "Falkenbergs Motorbana",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.658,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.9755686,
+      "longitude": 12.5676798
+    }
+  },
+  {
+    "id": "65e287c7-d7d7-4756-a4a5-45a21ee0d65a",
+    "name": "Gingerman Raceway",
+    "avatar": "gingerman-avatar.png",
+    "avatarPanorama": "gingerman-panorama.png",
+    "length": 2.21,
+    "gpsShape": [
+      [
+        42.411806,
+        -86.143472
+      ],
+      [
+        42.412484,
+        -86.135087
+      ],
+      [
+        42.406738,
+        -86.13033
+      ],
+      [
+        42.404982,
+        -86.143464
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 42.40802357161642,
+        "longitude": -86.1406600228589
+      },
+      {
+        "latitude": 42.40819487929349,
+        "longitude": -86.1406613639634
+      },
+      {
+        "latitude": 42.40819289886059,
+        "longitude": -86.14025232708863
+      },
+      {
+        "latitude": 42.40802357161644,
+        "longitude": -86.14025635040215
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 42.408026,
+      "longitude": -86.140496
+    }
+  },
+  {
+    "id": "northamerica-95a8fdbb-9623-445f-a63a-16db67f5e2fa",
+    "name": "M1 Concourse",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5609,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.6195865,
+      "longitude": -83.2853519
+    }
+  },
+  {
+    "id": "northamerica-eac75873-b3a3-48ba-a94c-cf502f04c629",
+    "name": "MSR Houston",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.531,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 29.2777367,
+      "longitude": -95.4235369
+    }
+  },
+  {
+    "id": "southamerica-3300b49f-7ca7-4b89-bc9c-5057414acbe2",
+    "name": "Villa Olimpica autodrome",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5493,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.0593387,
+      "longitude": -71.455049
+    }
+  },
+  {
+    "id": "be2ef538-9877-4259-8646-35d390b8d1f2",
+    "name": "Mid-Ohio",
+    "avatar": "mo.png",
+    "avatarPanorama": "mo-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": [
+      [
+        40.68421878167378,
+        -82.64077488947567
+      ],
+      [
+        40.688240617548,
+        -82.6315158259719
+      ],
+      [
+        40.695364,
+        -82.630066
+      ],
+      [
+        40.69310806300915,
+        -82.64172768833406
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 40.68965150935797,
+        "longitude": -82.63524796878008
+      },
+      {
+        "latitude": 40.689365761162456,
+        "longitude": -82.63526406203417
+      },
+      {
+        "latitude": 40.68937389635934,
+        "longitude": -82.635414265739
+      },
+      {
+        "latitude": 40.68965608538675,
+        "longitude": -82.6353968313804
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 40.689475040191425,
+      "longitude": -82.63528387699168
+    }
+  },
+  {
+    "id": "asia-4918cd0f-fc42-402b-8e76-2451a9484c21",
+    "name": "Nasu Motor Sports Land",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.42,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.970559,
+      "longitude": 140.126549
+    }
+  },
+  {
+    "id": "southamerica-c99e3d34-20f9-47d7-84ed-de5a4d09d349",
+    "name": "Autodromo b. o´higgins",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.44091796875,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -20.2509877,
+      "longitude": -70.0921178
+    }
+  },
+  {
+    "id": "asia-ea23927e-9748-4dd7-97bd-9861cffe806a",
+    "name": "Bira Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.676,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 12.9218222,
+      "longitude": 101.0079521
+    }
+  },
+  {
+    "id": "australia-33c364d8-7b5e-4b4a-aef9-7368db14681f",
+    "name": "Baskerville Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -42.74633,
+      "longitude": 147.2950732
+    }
+  },
+  {
+    "id": "europe-10badddf-9e4f-4e87-806a-ff9ab32e2665",
+    "name": "Bishopscourt Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.395,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 54.2999218,
+      "longitude": -5.57926010000006
+    }
+  },
+  {
+    "id": "europe-b3fb5a21-9467-48a0-a414-6c8dcc0d1177",
+    "name": "Lydden Hill Race Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.35,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.181027,
+      "longitude": 1.19756640000003
+    }
+  },
+  {
+    "id": "europe-277c0c4f-09fa-4b15-a945-161ff7a530f1",
+    "name": "Autodromo di Mores",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.492,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.507689,
+      "longitude": 8.82887819999996
+    }
+  },
+  {
+    "id": "australia-281c52e6-c7c3-46f0-b0d5-08f1bd46598c",
+    "name": "Winton Motor Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.542,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -36.5177044,
+      "longitude": 146.0873784
+    }
+  },
+  {
+    "id": "northamerica-fdbc81de-1d0d-488e-82f6-6481885be38d",
+    "name": "Atlanta Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.838,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.4329676,
+      "longitude": -84.1765952
+    }
+  },
+  {
+    "id": "europe-b1a741f6-1758-433d-b509-20c0d6415dfa",
+    "name": "Lånkebanen",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.3287,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 63.4048487,
+      "longitude": 10.9209895
+    }
+  },
+  {
+    "id": "northamerica-44e7cda5-e516-4311-9f6e-19b906da6952",
+    "name": "Palm Beach International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.9525,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 26.9171618,
+      "longitude": -80.3054287
+    }
+  },
+  {
+    "id": "northamerica-e48ed13a-1960-4725-99ef-d6a947f5624f",
+    "name": "Brainerd International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.4175532,
+      "longitude": -94.2849789
+    }
+  },
+  {
+    "id": "northamerica-33a69140-9d50-4890-92b2-3e10e067ea24",
+    "name": "Bondurant High Performance Driving School",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.265144,
+      "longitude": -111.9679677
+    }
+  },
+  {
+    "id": "europe-189fc371-e632-4021-99cc-8eae67a8cd8f",
+    "name": "Red Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.1284289,
+      "longitude": 92.7400349
+    }
+  },
+  {
+    "id": "asia-30012829-7601-4784-b16a-f2a56e905b50",
+    "name": "Melaka International Motorsport Circuit MIMC",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.194,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 2.2985098,
+      "longitude": 102.3071303
+    }
+  },
+  {
+    "id": "asia-8563da30-e11f-4993-bf11-c259550330e5",
+    "name": "The Johor Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.31,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 1.4796072,
+      "longitude": 103.912187
+    }
+  },
+  {
+    "id": "asia-12caa5b1-37aa-475d-a87d-afc4d94571f4",
+    "name": "Sportsland Sugo",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.036,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.1419215,
+      "longitude": 140.7776609
+    }
+  },
+  {
+    "id": "northamerica-5af8bd8b-66ad-44d4-9b9e-8d6180b12d57",
+    "name": "Sonoma Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.52,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.1608659,
+      "longitude": -122.4546942
+    }
+  },
+  {
+    "id": "europe-9ba3c19f-1bdc-45d8-bd79-6e0993eb6d6c",
+    "name": "Donington Park Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.498,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.8305468,
+      "longitude": -1.3788403
+    }
+  },
+  {
+    "id": "asia-5edb4c60-6a78-450d-bf98-d6a66f645f81",
+    "name": "Ar Reem Racetrack",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.65,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 24.38273,
+      "longitude": 45.9788936
+    }
+  },
+  {
+    "id": "southamerica-89916d32-7ac0-4375-8ddf-d043fe5907e6",
+    "name": "Autódromo Internacional Virgílio Távora",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -3.8961791,
+      "longitude": -38.4597397
+    }
+  },
+  {
+    "id": "northamerica-2bf9513a-598d-436c-a7fb-f35b812cbbdc",
+    "name": "Salinas Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.857,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 17.9701041,
+      "longitude": -66.2668398
+    }
+  },
+  {
+    "id": "southamerica-b46c9f76-1f35-48fb-a90a-905b7c07d2c6",
+    "name": "Wallerfield International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.36,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 10.6136713,
+      "longitude": -61.2130584
+    }
+  },
+  {
+    "id": "europe-c4f18007-1b74-4f69-9d63-3f64d9bb1ce9",
+    "name": "Motors Srl Turin Park Racetrack",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.15,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.2361377,
+      "longitude": 7.725032
+    }
+  },
+  {
+    "id": "europe-7fb0355f-835a-416a-bd29-5de2c5c5dd2f",
+    "name": "Tradium Ring Djursland",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.94518502029,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.337713,
+      "longitude": 10.680415
+    }
+  },
+  {
+    "id": "northamerica-9cd452a6-e5a1-4f64-99db-0430a98ec9e0",
+    "name": "Carolina Motorsports Park Inc.",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.284,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.488077,
+      "longitude": -80.596071
+    }
+  },
+  {
+    "id": "northamerica-b263f51f-697d-4160-975f-9f5ae8edbf09",
+    "name": "Buttonwillow Raceway Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.528,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.4907701,
+      "longitude": -119.5446288
+    }
+  },
+  {
+    "id": "europe-f82d63b2-6ada-43fb-b402-909a47e529b2",
+    "name": "Red Bull Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.317,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.2204132,
+      "longitude": 14.762001
+    }
+  },
+  {
+    "id": "northamerica-c0293e87-a48d-44b4-8c35-dbd0cbe96c53",
+    "name": "Autódromo Yucatán",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.75,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 21.1834748,
+      "longitude": -89.6248927
+    }
+  },
+  {
+    "id": "northamerica-0499a4f3-2160-4d67-b8bc-71c4dcf3c197",
+    "name": "St. Croix Riverside Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.632276,
+      "longitude": -71.7878969
+    }
+  },
+  {
+    "id": "southamerica-abe20df1-750e-4c0b-ac4e-5581faa8de77",
+    "name": "Autódromo Huachalalume",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.379,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -29.9823964,
+      "longitude": -71.2208838
+    }
+  },
+  {
+    "id": "europe-4536b5c4-b3a7-4a4a-ac1f-a5a6c6ec8af4",
+    "name": "EFR Germany Aldenhoven",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.427,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.9066999,
+      "longitude": 6.22822880000001
+    }
+  },
+  {
+    "id": "northamerica-98745289-77c2-49bb-8a62-1e2ef3ff91e4",
+    "name": "Calabogie Motorsports",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.38,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.3041229,
+      "longitude": -76.672673
+    }
+  },
+  {
+    "id": "northamerica-542bf2eb-0f96-405b-9f4f-6544a596b6a0",
+    "name": "Panama International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.75,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 8.971219,
+      "longitude": -79.83284
+    }
+  },
+  {
+    "id": "southamerica-d45d2732-8c77-4d41-890b-04988fb340d6",
+    "name": "Autodromo",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.459,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -18.1119273,
+      "longitude": -70.3107734
+    }
+  },
+  {
+    "id": "australia-f36ad8cf-c46a-4f2a-a575-e4aaf0357017",
+    "name": "Teretonga Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.071429,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -46.4408459,
+      "longitude": 168.2633493
+    }
+  },
+  {
+    "id": "asia-587d83b9-c100-46e9-92a2-cbfdb9c23b63",
+    "name": "Ordos International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.172,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.624845,
+      "longitude": 109.872799
+    }
+  },
+  {
+    "id": "northamerica-0556ed27-8299-4403-821e-9c68a43b6406",
+    "name": "Nelson Ledges Race Course",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.258,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.3098882,
+      "longitude": -81.0159375
+    }
+  },
+  {
+    "id": "europe-a5a0dde1-d1e7-47a2-bda8-413cd320ffc9",
+    "name": "Kymi Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.43,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 60.8793955,
+      "longitude": 26.4808349
+    }
+  },
+  {
+    "id": "northamerica-86bb0699-875a-4c66-9b41-482597e0f8ab",
+    "name": "Dominion Raceway & Entertainment",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.4658,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.1381391,
+      "longitude": -77.5038125
+    }
+  },
+  {
+    "id": "northamerica-ca690ea1-4d5b-46bf-9afa-4a8416567c86",
+    "name": "Monticello Motor Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.88,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.6168262,
+      "longitude": -74.6954495
+    }
+  },
+  {
+    "id": "europe-e0dca49c-c0ba-4256-9f42-fd1d5bca1aa4",
+    "name": "East Fortune Race Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.4588,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.0022743,
+      "longitude": -2.708926
+    }
+  },
+  {
+    "id": "northamerica-eb30dbd3-006f-43a0-9118-d1dda374a85f",
+    "name": "Flatrock Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.42,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.8786015,
+      "longitude": -84.7428236
+    }
+  },
+  {
+    "id": "southamerica-b0e70bad-0631-447b-8e79-4422b8b28d24",
+    "name": "Autódromo Internacional Nelson Piquet",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.2825,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -15.7728818,
+      "longitude": -47.899067
+    }
+  },
+  {
+    "id": "northamerica-fadb5ff2-fd5e-45e1-92e9-6a9b355f4ca0",
+    "name": "VIRginia International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.27,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.560008,
+      "longitude": -79.202606
+    }
+  },
+  {
+    "id": "europe-9b34149b-9068-4f59-99ca-decb583e5f47",
+    "name": "EuroSpeedway Lausitz",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5186,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.5344574,
+      "longitude": 13.9284431
+    }
+  },
+  {
+    "id": "asia-6b9a69ee-99f6-4bf2-956d-3b104dd99331",
+    "name": "Dato Sagor Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.1038,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 4.1741179,
+      "longitude": 100.9510497
+    }
+  },
+  {
+    "id": "northamerica-af612781-9eab-47a9-863d-9914f60270ad",
+    "name": "Willow Springs International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.869957,
+      "longitude": -118.264432
+    }
+  },
+  {
+    "id": "southamerica-718139b9-5102-4c33-a4c8-e470a51269ea",
+    "name": "Autódromo Internacional de Guaporé",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.667,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -28.8454129,
+      "longitude": -51.8522722
+    }
+  },
+  {
+    "id": "southamerica-b436f9c9-7840-4c8e-9d29-c426b895b8cb",
+    "name": "Autódromo Internacional José Tobar",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5743,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 0.38026,
+      "longitude": -78.0986329
+    }
+  },
+  {
+    "id": "southamerica-9717f363-a57e-40ab-8656-8cac137db5be",
+    "name": "Autódromo Internacional Ayrton Senna",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.6709,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -16.7191219,
+      "longitude": -49.1920544
+    }
+  },
+  {
+    "id": "europe-8a7a9c5e-976a-4ef0-a519-19f25e609250",
+    "name": "Circuit Du Bourbonnais",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.542,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.5364023,
+      "longitude": 3.43330630000003
+    }
+  },
+  {
+    "id": "northamerica-dc8b26ad-be1d-4d4e-8c72-1c055e88a511",
+    "name": "Autodromo Hermanos Rodriguez",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.518,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 19.4040417,
+      "longitude": -99.0895156
+    }
+  },
+  {
+    "id": "northamerica-d29c7e47-9ee8-4560-b0d9-fb0f3d537a21",
+    "name": "Pineview Run: Auto & Country Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.30075,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.8795609,
+      "longitude": -76.1822724
+    }
+  },
+  {
+    "id": "africa-4ee85cf0-34a2-454a-87f0-51e3a75d73c0",
+    "name": "The Rock Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.366,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -26.2072034,
+      "longitude": 28.3496982
+    }
+  },
+  {
+    "id": "europe-4a6b1d36-384a-4686-9aff-732b404002b6",
+    "name": "European Pau Arnos circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.946,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.446914,
+      "longitude": -0.528006
+    }
+  },
+  {
+    "id": "europe-a626ac87-3094-442f-925c-f1ccc7acb014",
+    "name": "Autodromo Enzo e Dino Ferrari",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.609,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.3443574,
+      "longitude": 11.719392
+    }
+  },
+  {
+    "id": "europe-277cacce-7344-4759-b98a-b9aaf04d18a0",
+    "name": "Barcelona-Catalunya Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.892,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.5682267,
+      "longitude": 2.2571491
+    }
+  },
+  {
+    "id": "southamerica-295b83c4-2c83-4804-b479-44e34404f82e",
+    "name": "Autodromo General Roca Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.037,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -39.0766791,
+      "longitude": -67.579793
+    }
+  },
+  {
+    "id": "northamerica-c4a3cf44-f419-4086-8690-f32b5695622d",
+    "name": "Utah Motorsports Campus",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.5848466,
+      "longitude": -112.3734399
+    }
+  },
+  {
+    "id": "europe-77d159ce-c491-4ca0-9143-f502f99ffe9d",
+    "name": "Biķernieku trase",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.569,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.9665035,
+      "longitude": 24.2325695
+    }
+  },
+  {
+    "id": "southamerica-e33bbd08-b1b1-494b-9897-f2bd96ac3dff",
+    "name": "Autodromo Cabo Negro",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.8968,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -52.9673653,
+      "longitude": -70.8370019
+    }
+  },
+  {
+    "id": "africa-935b9ca8-e899-4a01-a2c2-2fce2384a493",
+    "name": "Red Star Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.488,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -26.075748,
+      "longitude": 28.755855
+    }
+  },
+  {
+    "id": "northamerica-ad27fec7-3327-4d9c-b138-c741a51d4da7",
+    "name": "polecat driving academy",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.539375,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.3021986,
+      "longitude": -86.4754692
+    }
+  },
+  {
+    "id": "asia-04aa9db1-9616-44f3-aab0-b3bf6f2741a1",
+    "name": "Autopolis International Racing Course",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.039077,
+      "longitude": 130.97351
+    }
+  },
+  {
+    "id": "northamerica-8d3bccc9-90d5-4b40-8aee-b366803f37ab",
+    "name": "Musselman Honda Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.54,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 32.0362718,
+      "longitude": -110.7949208
+    }
+  },
+  {
+    "id": "europe-35ca7bb1-3b43-40c0-8213-170d0c3acae7",
+    "name": "Cadwell Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.23856,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.3110682,
+      "longitude": -0.061776499999951
+    }
+  },
+  {
+    "id": "northamerica-086eb5f5-e69b-4cc4-8384-8f5be57058b6",
+    "name": "Pueblo Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.21207031,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.3018689,
+      "longitude": -104.6766987
+    }
+  },
+  {
+    "id": "northamerica-37b60179-a238-465c-91f0-888ddfc31b74",
+    "name": "Inde Motorsports Ranch",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.342,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 32.232562,
+      "longitude": -110.009859
+    }
+  },
+  {
+    "id": "northamerica-c005812a-e1ae-4171-b0dd-a796b8e83be0",
+    "name": "Canadian Tire Motorsport Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.459,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.0552611,
+      "longitude": -78.676138
+    }
+  },
+  {
+    "id": "europe-fa0e3889-9be0-4a55-a371-183619e6374c",
+    "name": "Jyllandsringen",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.479,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.1764536,
+      "longitude": 9.65996910000001
+    }
+  },
+  {
+    "id": "asia-c599dc68-dd99-4a37-9040-fc5445c3dd04",
+    "name": "Chengdu International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.286,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 30.5817301,
+      "longitude": 104.2943895
+    }
+  },
+  {
+    "id": "southamerica-1d221404-63bd-453c-b262-72acbe54029f",
+    "name": "Autodrome and International Karting Tarumã",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.65,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -30.050358,
+      "longitude": -51.0148728
+    }
+  },
+  {
+    "id": "northamerica-0ffc8d25-4982-4495-81f7-5f86cebd234d",
+    "name": "Indianapolis Motor Speedway",
+    "avatar": "gmr-avatar.png",
+    "avatarPanorama": "gmr-panorama.jpg",
+    "length": 2.534,
+    "gpsShape": [
+      [
+        39.78697996863641,
+        -86.2421618365396
+      ],
+      [
+        39.78766192768264,
+        -86.22778472208493
+      ],
+      [
+        39.80332564005168,
+        -86.2285707724335
+      ],
+      [
+        39.802838638057914,
+        -86.24261825287066
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 39.79316746790249,
+        "longitude": -86.24011132581302
+      },
+      {
+        "latitude": 39.79316334609893,
+        "longitude": -86.23770538432666
+      },
+      {
+        "latitude": 39.794331886160236,
+        "longitude": -86.23754858598966
+      },
+      {
+        "latitude": 39.794352513467146,
+        "longitude": -86.24021615374532
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 39.79315758107463,
+      "longitude": -86.23886519934102
+    }
+  },
+  {
+    "id": "southamerica-baee3527-4ab1-4c11-8377-94a8bc8324df",
+    "name": "Autódromo Aldea Romana",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.64,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -38.6822177,
+      "longitude": -62.1771343
+    }
+  },
+  {
+    "id": "europe-a040b688-39c2-41fc-8897-85b05fb902c8",
+    "name": "Gelleråsen Arena",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.2643,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 59.3837561,
+      "longitude": 14.5078347
+    }
+  },
+  {
+    "id": "asia-d36bb1e9-f2dd-4dd2-b33f-6e1e6034e2c5",
+    "name": "北海道スピードパーク",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.85,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.922857,
+      "longitude": 140.718161
+    }
+  },
+  {
+    "id": "australia-234ed6e8-43d6-4855-b756-3a16f09689bc",
+    "name": "Symmons Plains Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.444,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -41.6616444,
+      "longitude": 147.2499587
+    }
+  },
+  {
+    "id": "europe-ed8b84c0-d455-4fdd-b537-919db5d9c439",
+    "name": "MBR Autodromo Vincenzo Florio",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.38,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.106281,
+      "longitude": 13.2280541
+    }
+  },
+  {
+    "id": "europe-000988ff-51da-476d-8119-9eb69eb0bebd",
+    "name": "Circuito de Jerez",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.4383,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.7092986,
+      "longitude": -6.0338783
+    }
+  },
+  {
+    "id": "northamerica-a81d335b-0948-4a98-9678-e23cc49ba7ff",
+    "name": "Kansas Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.1117591,
+      "longitude": -94.8276138
+    }
+  },
+  {
+    "id": "europe-d7932694-656f-4d17-b520-c345d9038b1c",
+    "name": "Circuit du Mas du Clos",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.1125,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.9294796,
+      "longitude": 2.30490810000003
+    }
+  },
+  {
+    "id": "northamerica-e1ac9730-13e3-46cd-9211-480231c0bb3a",
+    "name": "Memphis International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.1525,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 35.2828858,
+      "longitude": -89.947722
+    }
+  },
+  {
+    "id": "europe-c408d195-565d-4cec-a918-03a2d8f4292b",
+    "name": "Gotland Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.51,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 57.8331446,
+      "longitude": 18.8277479
+    }
+  },
+  {
+    "id": "europe-228427ff-8002-4a1a-bacf-7bb7ee9c4863",
+    "name": "Nizhegorodskoye Kol'tso",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.219225,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 56.1213521,
+      "longitude": 43.6021595
+    }
+  },
+  {
+    "id": "northamerica-000ac029-4ec2-4ee5-bee2-706e5993befa",
+    "name": "Grand Junction Motor Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.4874,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.1095698,
+      "longitude": -108.4916391
+    }
+  },
+  {
+    "id": "southamerica-8ebefd7e-f7c9-4a3f-a2d1-12995fc3924f",
+    "name": "Autódromo Luis Rubén Di Palma",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.375,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -36.7098675,
+      "longitude": -56.7204732
+    }
+  },
+  {
+    "id": "africa-22fe1308-b3cc-48d3-9d81-fb3c11af25ae",
+    "name": "Midvaal Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.969,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -26.6125086,
+      "longitude": 28.0603225
+    }
+  },
+  {
+    "id": "southamerica-4a111f6c-2e7a-4d48-9ccb-870ff3d44bc7",
+    "name": "Autódromo Internacional de Codegua",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5245,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.0367979,
+      "longitude": -70.631361
+    }
+  },
+  {
+    "id": "asia-b934eb33-76fe-4249-9e82-a905ece918a9",
+    "name": "Losail International Circuit Road",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.3457,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 25.4907264,
+      "longitude": 51.4537968
+    }
+  },
+  {
+    "id": "asia-936075a5-3b2e-4981-a7dc-5d4db056e1c1",
+    "name": "Okayama International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.304,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.9130656,
+      "longitude": 134.2198002
+    }
+  },
+  {
+    "id": "europe-aa2aa2e9-f09f-42e6-ac67-0a2e2ae69233",
+    "name": "Slovakia Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.719,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.0545009,
+      "longitude": 17.5655712
+    }
+  },
+  {
+    "id": "northamerica-c3e78ad8-761f-4b9b-865f-69dc3a53d5e2",
+    "name": "Circuit 9 Haiti",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 18.5839543,
+      "longitude": -72.3181194
+    }
+  },
+  {
+    "id": "asia-9ac2bbc8-1b1d-44da-86ad-dea0c2e0e614",
+    "name": "Batangas Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.323,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 13.8214685,
+      "longitude": 121.2776576
+    }
+  },
+  {
+    "id": "asia-4c106412-1b44-452b-9cb0-1caca278e644",
+    "name": "MINEサーキット",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 34.1431623,
+      "longitude": 131.1049442
+    }
+  },
+  {
+    "id": "northamerica-0eab7b45-9fbd-4ea1-a9a6-66a82b9c21a9",
+    "name": "Autodrome St Félicien",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.042,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.677285,
+      "longitude": -72.5186765
+    }
+  },
+  {
+    "id": "europe-23ef4f7f-761a-430a-bc5c-46457022c406",
+    "name": "Rabócsiring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 4.12,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.8643781,
+      "longitude": 22.0295204
+    }
+  },
+  {
+    "id": "asia-83ba9761-47a8-4426-93ad-cbc1b3f46da8",
+    "name": "Chiangrai Circuit Raceway Maelao",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.415,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 19.7420263,
+      "longitude": 99.6893094
+    }
+  },
+  {
+    "id": "australia-af6106f6-ddef-46f9-bfb6-475d92c1bb35",
+    "name": "Levels Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.892,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -44.2980829,
+      "longitude": 171.202215
+    }
+  },
+  {
+    "id": "europe-33d9eba2-2170-4f4b-90dc-2b87b92a7bcf",
+    "name": "ACI Vallelunga Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.506,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.1565926,
+      "longitude": 12.3700262
+    }
+  },
+  {
+    "id": "northamerica-9effbc23-ff18-4df7-827f-8fc1c2c0437f",
+    "name": "Autódromo Chiapas",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.068,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 16.7788626,
+      "longitude": -93.2505476
+    }
+  },
+  {
+    "id": "southamerica-91b96538-b270-4edd-b0bf-033e3a724a87",
+    "name": "Autódromo Municipal Juan Manuel Fangio",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.48575,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -32.9084526,
+      "longitude": -60.7465269
+    }
+  },
+  {
+    "id": "africa-bf16ce66-8361-4bf3-9cfe-b8722ab9c816",
+    "name": "Circuit de Dakar Baobabs",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.73,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 14.599997,
+      "longitude": -17.0229409
+    }
+  },
+  {
+    "id": "southamerica-33257a60-1aed-48ec-af9f-8f83b64b3dee",
+    "name": "Autódromo Ciudad de Concordia",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -31.3073301,
+      "longitude": -58.0080645
+    }
+  },
+  {
+    "id": "europe-b65227c3-e0ed-4ad1-a3a4-f4b05deadd3e",
+    "name": "auto24ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.534,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 58.4059279,
+      "longitude": 24.4440104
+    }
+  },
+  {
+    "id": "africa-6f105cc5-502d-40a1-b469-cfb4cc4c889c",
+    "name": "Aldo Scribante Race Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.369,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.810406,
+      "longitude": 25.645995
+    }
+  },
+  {
+    "id": "europe-8f34adf6-2555-4e28-b7ea-6c975049b781",
+    "name": "ТРК «Приморское кольцо»",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.20748,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.3572611,
+      "longitude": 132.0840623
+    }
+  },
+  {
+    "id": "europe-9f8f7954-53d4-4074-abab-bea010194539",
+    "name": "Circuit Goodyear",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.38,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.8009481,
+      "longitude": 6.1023779
+    }
+  },
+  {
+    "id": "asia-19c4fb52-e5f9-46ad-8c63-9ff5d1f033ba",
+    "name": "AMG Everland Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.41015625,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.2960689,
+      "longitude": 127.207591
+    }
+  },
+  {
+    "id": "europe-625cf7a3-cd1f-457c-b9b7-a28c0d5970ed",
+    "name": "CEERTA Circuit d'Issoire",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.572,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.5346419,
+      "longitude": 3.2613597
+    }
+  },
+  {
+    "id": "southamerica-1be1c6df-9464-4445-b0bb-c9f546838fca",
+    "name": "Autódromo Ciudad de Rafaela",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -31.203121,
+      "longitude": -61.4798647
+    }
+  },
+  {
+    "id": "northamerica-c1f3c1fa-6592-4946-ad52-1cf90eef060a",
+    "name": "Atlanta Motor Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.54,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.3859794,
+      "longitude": -84.3162774
+    }
+  },
+  {
+    "id": "northamerica-2eb8c1c1-798e-4c8a-baf6-cbceca5b4b68",
+    "name": "Wild Horse Pass Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.51,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.2689065,
+      "longitude": -111.9671537
+    }
+  },
+  {
+    "id": "europe-27ec076b-0601-4f95-8ae0-5ce0dd5ed8ca",
+    "name": "Salzburgring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.356,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.8239967,
+      "longitude": 13.1736378000001
+    }
+  },
+  {
+    "id": "29192dce-159d-4141-af9e-a7bff2a35fe4",
+    "name": "Sonoma Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": [
+      [
+        38.169552,
+        -122.467282
+      ],
+      [
+        38.169207,
+        -122.453044
+      ],
+      [
+        38.154625,
+        -122.448424
+      ],
+      [
+        38.15601,
+        -122.458825
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 38.161734556014984,
+        "longitude": -122.45449786121856
+      },
+      {
+        "latitude": 38.16139290697512,
+        "longitude": -122.45483850176345
+      },
+      {
+        "latitude": 38.16168499591402,
+        "longitude": -122.45532264049064
+      },
+      {
+        "latitude": 38.16203086144769,
+        "longitude": -122.4549290263177
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 38.161537,
+      "longitude": -122.454719
+    }
+  },
+  {
+    "id": "europe-4cb47b82-a639-4b15-b835-4b23fad6b01b",
+    "name": "National Driving Academy (NAVAK)",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.35,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.8394054,
+      "longitude": 19.9522328
+    }
+  },
+  {
+    "id": "europe-c6e8dae7-3767-483d-8c4f-c122c6bfbfbf",
+    "name": "Vålerbanen",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.64,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 60.703794,
+      "longitude": 11.8101682
+    }
+  },
+  {
+    "id": "asia-dc876cb6-7d60-4651-a3a1-da2fc6add8e9",
+    "name": "Palawan International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.356,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 9.7886257,
+      "longitude": 118.7356693
+    }
+  },
+  {
+    "id": "europe-491dba0e-bb62-4ab0-b19b-d25a01aeb634",
+    "name": "Kakucs Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.258,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.2462753,
+      "longitude": 19.3777907
+    }
+  },
+  {
+    "id": "southamerica-7d2d7983-e3da-4f75-b1c3-124539ee695d",
+    "name": "Autódromo Parque Ciudad de Río Cuarto",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.619,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.1781511,
+      "longitude": -64.3657636
+    }
+  },
+  {
+    "id": "europe-91e321fe-a5bc-4d09-ab34-cdb767cb3e0c",
+    "name": "Automotodrom Brno",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.9414,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.2038889,
+      "longitude": 16.4455557
+    }
+  },
+  {
+    "id": "europe-b2c3689c-372b-42a3-96d0-13d2cca3c02d",
+    "name": "The Ring of the Rhine",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.9449145,
+      "longitude": 7.4289341
+    }
+  },
+  {
+    "id": "europe-ad8a92f5-c711-4cd7-ae4a-4819b5ad9857",
+    "name": "Circuit de Haute Saintonge",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.109,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.2402905,
+      "longitude": -0.094704099999944
+    }
+  },
+  {
+    "id": "europe-fcb72d70-db75-4ccc-9157-5ec5097e8d64",
+    "name": "Jules Tacheny Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.21,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.3035197,
+      "longitude": 4.6567682
+    }
+  },
+  {
+    "id": "europe-60fe7be3-d93d-48c7-871b-4c450c9e1211",
+    "name": "Sachsenring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.2188,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.7907617,
+      "longitude": 12.6874043
+    }
+  },
+  {
+    "id": "europe-c2ec6ca6-7879-42a7-9f00-1c530f3a133e",
+    "name": "Mallory Park Racing Circuit (Real Motorsport Ltd)",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.37,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.5985725,
+      "longitude": -1.33640830000002
+    }
+  },
+  {
+    "id": "asia-ebd92d95-7166-4c23-9eaf-81096dd00048",
+    "name": "태백레이싱파크",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.0831872,
+      "longitude": 129.0192587
+    }
+  },
+  {
+    "id": "northamerica-198c4406-7bac-4ab2-b27f-f50099e78832",
+    "name": "Daytona International Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 29.185169,
+      "longitude": -81.070528
+    }
+  },
+  {
+    "id": "371ebdb78be9432dbea0abf88d32f1067",
+    "name": "Autobahn Country Club South",
+    "avatar": "autobahn-avatar.png",
+    "avatarPanorama": "autobahn-panorama.jpg",
+    "length": 2.06,
+    "gpsShape": [
+      [
+        41.461083,
+        -88.120942
+      ],
+      [
+        41.449789,
+        -88.129188
+      ],
+      [
+        41.454707,
+        -88.132387
+      ],
+      [
+        41.447847,
+        -88.13326
+      ]
+    ],
+    "configurations": [
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f1067",
+        "name": "Autobahn Country Club South"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f106",
+        "name": "Autobahn Country Club Full"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f741",
+        "name": "Autobahn Country Club North"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f742",
+        "name": "Autobahn Country Club Gokart"
+      }
+    ],
+    "finishLinePolygon": [
+      {
+        "latitude": 41.45527607073428,
+        "longitude": -88.12683725254682
+      },
+      {
+        "latitude": 41.45514037922447,
+        "longitude": -88.12695526974348
+      },
+      {
+        "latitude": 41.455084092292694,
+        "longitude": -88.12682115929273
+      },
+      {
+        "latitude": 41.45522782489665,
+        "longitude": -88.1267085065141
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 41.455206,
+      "longitude": -88.126883
+    }
+  },
+  {
+    "id": "southamerica-f443ae50-627c-4777-ae7b-abee79536760",
+    "name": "Autódromo Jorge Ángel Pena",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.405,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.0602805,
+      "longitude": -68.4984527
+    }
+  },
+  {
+    "id": "asia-2f7918ad-e439-4872-a4cd-f4556ad2350d",
+    "name": "Kaeng Krachan Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.3448,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 12.942246,
+      "longitude": 99.706249
+    }
+  },
+  {
+    "id": "europe-a6e9f148-e765-4af2-bf8c-a2ece2a608a3",
+    "name": "acr AS",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 66.4235784,
+      "longitude": 14.4449337
+    }
+  },
+  {
+    "id": "northamerica-6fdefec6-4582-4779-ab10-94e6f87076e1",
+    "name": "Thunderhill Raceway Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.038,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.5392738,
+      "longitude": -122.3326425
+    }
+  },
+  {
+    "id": "europe-042040d3-9c8b-4c88-8f57-47cc3402c306",
+    "name": "Circuit Chenevières",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.48,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.513918,
+      "longitude": 6.6484237
+    }
+  },
+  {
+    "id": "southamerica-8fbf5c56-1b72-47aa-bd0c-9a7518995e51",
+    "name": "Autódromo Geraldo Backer",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.348,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -20.1756324,
+      "longitude": -40.2657294
+    }
+  },
+  {
+    "id": "asia-b416973a-d669-4239-a308-8508fc1db769",
+    "name": "Buddh International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.4181,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 28.350494,
+      "longitude": 77.5350918
+    }
+  },
+  {
+    "id": "europe-7403d5cb-d630-4540-b5b5-4c4a2d83d57b",
+    "name": "Circuit de Calafat",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.543,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.9322105,
+      "longitude": 0.840034699999933
+    }
+  },
+  {
+    "id": "europe-200fa433-3f8d-4ced-aab3-3c78c70c959b",
+    "name": "Goodwood Motor Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4282,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.859426,
+      "longitude": -0.751715
+    }
+  },
+  {
+    "id": "europe-3fe942ec-1c34-4be7-a963-9988e4ade1a7",
+    "name": "Thruxton Motorsport Centre",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.3592,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.203477,
+      "longitude": -1.6103284
+    }
+  },
+  {
+    "id": "southamerica-a48179c1-82dc-4ef3-8761-46f9cc587993",
+    "name": "Autódromo Ciudad de Mar del Plata",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.423,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -37.9943061,
+      "longitude": -57.6384654
+    }
+  },
+  {
+    "id": "europe-e6bba48b-9594-416e-9dd3-a1d13c2296ab",
+    "name": "Autodromo dell'Umbria",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.1327123,
+      "longitude": 12.2364449
+    }
+  },
+  {
+    "id": "europe-40a1b8d3-3ab2-4aaa-aedf-2f04ffaa37f2",
+    "name": "Lurcy-Levis circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.95,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.718144,
+      "longitude": 2.94878840000001
+    }
+  },
+  {
+    "id": "northamerica-96c56bba-37b0-4917-b2c1-fce59142bbde",
+    "name": "Jamwest Motorsports & Adventure Park (Home of Jamwest Speedway)",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 18.2144883,
+      "longitude": -78.2499188
+    }
+  },
+  {
+    "id": "europe-c7d34d09-a619-46bb-a3a5-7660cf768eca",
+    "name": "Ascari Rennstrecke",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.817,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.824874,
+      "longitude": -5.083315
+    }
+  },
+  {
+    "id": "africa-ced231b5-8c50-4ce7-a03e-4f504274a815",
+    "name": "Motorsport Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 6.2793305,
+      "longitude": 5.9951281
+    }
+  },
+  {
+    "id": "asia-05ac568a-a710-4122-bf01-fd7b65d2e4cc",
+    "name": "Sepang International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.7647,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 2.7594144,
+      "longitude": 101.7317775
+    }
+  },
+  {
+    "id": "northamerica-5fbe5036-ca69-4631-9cc9-73fbb624db52",
+    "name": "Road Atlanta",
+    "avatar": "rat-avatar.png",
+    "avatarPanorama": "rat-panorama.jpg",
+    "length": 2.54,
+    "gpsShape": [
+      [
+        34.15411617619892,
+        -83.82301226056761
+      ],
+      [
+        34.135043137805354,
+        -83.82429972078195
+      ],
+      [
+        34.1350786595693,
+        -83.809665589679
+      ],
+      [
+        34.14960580914098,
+        -83.80730524595273
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 34.150491815338725,
+        "longitude": -83.81414298909898
+      },
+      {
+        "latitude": 34.15021435177626,
+        "longitude": -83.8143615891337
+      },
+      {
+        "latitude": 34.150031225325876,
+        "longitude": -83.81400250840183
+      },
+      {
+        "latitude": 34.15030979934457,
+        "longitude": -83.81378290253873
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 34.1384401,
+      "longitude": -83.8180554
+    }
+  },
+  {
+    "id": "northamerica-465c7254-1402-4112-b370-a7b78a9055cf",
+    "name": "Las Vegas Motor Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.2722847,
+      "longitude": -115.0102761
+    }
+  },
+  {
+    "id": "europe-7b3f1773-d593-458d-adc2-41806ee930af",
+    "name": "Autodromo di Franciacorta",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.356,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.5136907,
+      "longitude": 10.0053176
+    }
+  },
+  {
+    "id": "northamerica-2db4dd7d-937c-42f3-bad7-f25ff05d3dc1",
+    "name": "Autódromo Miguel E. Abed",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.77,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 19.026608,
+      "longitude": -97.989109
+    }
+  },
+  {
+    "id": "northamerica-134bbf68-5932-4feb-86eb-cf2fe129343c",
+    "name": "Area 27 Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.53,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.1637012,
+      "longitude": -119.5221038
+    }
+  },
+  {
+    "id": "europe-fe320f3e-1379-40dd-a8dd-b5a83e36ce4f",
+    "name": "Blyton Park Race Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.36,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.4569734,
+      "longitude": -0.692135
+    }
+  },
+  {
+    "id": "northamerica-b5a863f2-6cf6-48c0-a3f1-2b6055fd1409",
+    "name": "Arroyo Seco Motorplex",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 32.239101,
+      "longitude": -107.434569
+    }
+  },
+  {
+    "id": "europe-a2afe17d-26a6-45eb-80cd-4bb1317ba786",
+    "name": "Snetterton Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.969,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.4636111,
+      "longitude": 0.9458333
+    }
+  },
+  {
+    "id": "northamerica-b5d0e457-4acf-4e7a-bab4-c2b7cb471e7b",
+    "name": "Mission Raceway Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.9,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.1255285,
+      "longitude": -122.3231492
+    }
+  },
+  {
+    "id": "southamerica-26361e84-a761-4968-aa60-cde316a2fa5f",
+    "name": "Autodromo de Concepcion del Uruguay",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.22,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -32.4572,
+      "longitude": -58.3136671
+    }
+  },
+  {
+    "id": "southamerica-caa1a530-d44b-44ee-a0a6-089089e54ec1",
+    "name": "Circuito dos Cristais",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.897,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -18.8070624,
+      "longitude": -44.4092463
+    }
+  },
+  {
+    "id": "northamerica-ad0138d2-3660-47c5-ade3-3246660c3807",
+    "name": "Nashville Superspeedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3365,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.046245,
+      "longitude": -86.41041
+    }
+  },
+  {
+    "id": "southamerica-010c204f-6f57-47a6-873c-3950dc48b6df",
+    "name": "South Dakota Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3981,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 6.4906406,
+      "longitude": -58.2526703
+    }
+  },
+  {
+    "id": "africa-deb4cbd7-75f2-496e-9d1d-66da5fdcaec7",
+    "name": "Prince George Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.11,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.0527029,
+      "longitude": 27.8683297
+    }
+  },
+  {
+    "id": "europe-e79e78eb-5f07-46c9-890d-5ff9e533eb1b",
+    "name": "АДМ Raceway Мячково",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.284,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 55.5646199,
+      "longitude": 37.9907631999999
+    }
+  },
+  {
+    "id": "asia-0bd703c8-b386-4c11-aaf4-a5b7d7b6e91a",
+    "name": "天马山赛车场",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.32,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 31.0780688,
+      "longitude": 121.1155406
+    }
+  },
+  {
+    "id": "northamerica-0f2e57c6-274e-48ab-9dec-5fa3144b518a",
+    "name": "New Hampshire Motor Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.058,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 43.36268,
+      "longitude": -71.460573
+    }
+  },
+  {
+    "id": "europe-5081cee2-8d3a-4ec1-a8e1-79d84d3628d8",
+    "name": "KazanRing Canyon",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.639,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 55.866393,
+      "longitude": 49.2596806
+    }
+  },
+  {
+    "id": "europe-b132ee7b-e408-432f-baeb-c734a6dddd9a",
+    "name": "The Circuit Faleyras",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.43,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.7520898,
+      "longitude": -0.241903
+    }
+  },
+  {
+    "id": "northamerica-be2cf538-9877-4259-8646-35d390b8d1f2",
+    "name": "Mid-Ohio Pro Course",
+    "avatar": "mo.png",
+    "avatarPanorama": "mo-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": [
+      [
+        40.68421878167378,
+        -82.64077488947567
+      ],
+      [
+        40.688240617548,
+        -82.6315158259719
+      ],
+      [
+        40.695364,
+        -82.630066
+      ],
+      [
+        40.69310806300915,
+        -82.64172768833406
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 40.68965150935797,
+        "longitude": -82.63524796878008
+      },
+      {
+        "latitude": 40.689365761162456,
+        "longitude": -82.63526406203417
+      },
+      {
+        "latitude": 40.68937389635934,
+        "longitude": -82.635414265739
+      },
+      {
+        "latitude": 40.68965608538675,
+        "longitude": -82.6353968313804
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 40.689475040191425,
+      "longitude": -82.63528387699168
+    }
+  },
+  {
+    "id": "australia-7ef7a495-d5bd-404e-919e-6493543062d0",
+    "name": "Hidden Valley Race Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -12.4487367,
+      "longitude": 130.9069894
+    }
+  },
+  {
+    "id": "northamerica-421336c9-8262-4488-8909-7aab9c1665e4",
+    "name": "Chuckwalla Valley Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.433,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.7528181,
+      "longitude": -115.3170488
+    }
+  },
+  {
+    "id": "europe-88dc68fc-4dab-4ffb-b91b-da3a48d8a64a",
+    "name": "Tierp Arena",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.8099,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 60.335775,
+      "longitude": 17.4271332000001
+    }
+  },
+  {
+    "id": "371ebdb78be9432dbea0abf88d32f106",
+    "name": "Autobahn Country Club Full",
+    "avatar": "autobahn-avatar.png",
+    "avatarPanorama": "autobahn-panorama.jpg",
+    "length": 3.56,
+    "gpsShape": [
+      [
+        41.461083,
+        -88.120942
+      ],
+      [
+        41.449789,
+        -88.129188
+      ],
+      [
+        41.454707,
+        -88.132387
+      ],
+      [
+        41.447847,
+        -88.13326
+      ]
+    ],
+    "configurations": [
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f1067",
+        "name": "Autobahn Country Club South"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f106",
+        "name": "Autobahn Country Club Full"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f741",
+        "name": "Autobahn Country Club North"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f742",
+        "name": "Autobahn Country Club Gokart"
+      }
+    ],
+    "finishLinePolygon": [
+      {
+        "latitude": 41.456765494531545,
+        "longitude": -88.12592834803858
+      },
+      {
+        "latitude": 41.45649512256217,
+        "longitude": -88.12610671493808
+      },
+      {
+        "latitude": 41.45643280618635,
+        "longitude": -88.12597931000987
+      },
+      {
+        "latitude": 41.45670317841549,
+        "longitude": -88.12580362531939
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 41.456556,
+      "longitude": -88.125889
+    }
+  },
+  {
+    "id": "southamerica-6636aefa-d70b-4dbe-bffd-496ea927799d",
+    "name": "Autódromo Roberto José Mouras",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.62,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.9807386,
+      "longitude": -58.181274
+    }
+  },
+  {
+    "id": "europe-f1f554ec-5f77-46cc-8238-16e88097b3d2",
+    "name": "Midland Circuit Lelystad",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.56784,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.4498385,
+      "longitude": 5.49570790000007
+    }
+  },
+  {
+    "id": "asia-c879bfed-ad18-4757-b825-17b74a8c08f1",
+    "name": "Tsukuba Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.03493,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.1501421,
+      "longitude": 139.9198231
+    }
+  },
+  {
+    "id": "southamerica-fa76da47-1d00-4661-9a31-abd21b66a7f6",
+    "name": "Autódromo Eduardo P. Cabrera",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.425,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -30.8618331,
+      "longitude": -55.6058318
+    }
+  },
+  {
+    "id": "europe-161dd3e3-7760-4811-9b2b-de56f4fb2248",
+    "name": "Nutts Corner Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.912,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 54.6303529,
+      "longitude": -6.154586
+    }
+  },
+  {
+    "id": "europe-bc98baaf-0312-4435-920f-2df3bbd5641c",
+    "name": "MotoPark Toruń",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.086,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.0210556,
+      "longitude": 18.5475297
+    }
+  },
+  {
+    "id": "asia-5606ee8f-b587-4c4b-b1cf-7cd91cd98bd3",
+    "name": "Kari Motor Speedway Racetrack",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.55,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 10.9009751,
+      "longitude": 77.0522515
+    }
+  },
+  {
+    "id": "europe-be2aeb8d-6c6b-4f81-bf1c-434459ba0a82",
+    "name": "Kemoran moottorirata",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 63.4181612,
+      "longitude": 23.9877962
+    }
+  },
+  {
+    "id": "southamerica-6faf5039-6d2d-42e3-a254-1c23945e051c",
+    "name": "Autódromo Ciudad de Paraná",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.4886,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -31.7565629,
+      "longitude": -60.3798971
+    }
+  },
+  {
+    "id": "europe-31c10456-316a-49a2-a703-a6d2822a6b5f",
+    "name": "Pôle Mécanique Ales Cevennes",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.8709,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.15678,
+      "longitude": 4.0722569
+    }
+  },
+  {
+    "id": "australia-af354d28-dc09-4c38-8e3a-7aedcc399c0e",
+    "name": "Adelaide International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.304,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.6993367,
+      "longitude": 138.5651708
+    }
+  },
+  {
+    "id": "europe-543a8cb9-44fd-46eb-ba5c-643c6583b665",
+    "name": "Les Circuits du Val de Loire",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.951,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.3938897,
+      "longitude": 1.3063318
+    }
+  },
+  {
+    "id": "europe-f1b7aa7d-34ae-444a-8321-211f73d62bc6",
+    "name": "Croft Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.33422,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 54.4555874,
+      "longitude": -1.5564809
+    }
+  },
+  {
+    "id": "northamerica-9d64e2e2-b3b9-4eec-b54a-0a7fa4d838c0",
+    "name": "Apex Motor Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.148,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.0826053,
+      "longitude": -112.1192655
+    }
+  },
+  {
+    "id": "europe-cc313cdc-44dd-4564-a494-0e79aff117f5",
+    "name": "Bedford Autodrome",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.366,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.2376839,
+      "longitude": -0.47072090000006
+    }
+  },
+  {
+    "id": "northamerica-08cd29e1-5fd4-4093-bd13-b5577c26ac61",
+    "name": "Dover Race Way",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 18.422133,
+      "longitude": -77.3765849
+    }
+  },
+  {
+    "id": "europe-087a0114-439e-48be-a559-b88c728b4866",
+    "name": "JP Beltoise circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.52,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.7574181,
+      "longitude": 1.98772510000003
+    }
+  },
+  {
+    "id": "4d358a0f-a4e8-4693-b48a-f65d0527dd22",
+    "name": "Blackhawk Farms Raceway",
+    "avatar": "blackhawk-avatar.png",
+    "avatarPanorama": "blackhawk-panorama.jpg",
+    "length": 1.95,
+    "gpsShape": [
+      [
+        42.490948,
+        -89.117779
+      ],
+      [
+        42.491618,
+        -89.110186
+      ],
+      [
+        42.484123,
+        -89.111557
+      ],
+      [
+        42.484324,
+        -89.120235
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 42.488608959501825,
+        "longitude": -89.1179514889871
+      },
+      {
+        "latitude": 42.48858522479161,
+        "longitude": -89.11713743855108
+      },
+      {
+        "latitude": 42.48915707124647,
+        "longitude": -89.11717076249923
+      },
+      {
+        "latitude": 42.48916980842095,
+        "longitude": -89.11790444849706
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 42.488454,
+      "longitude": -89.117543
+    }
+  },
+  {
+    "id": "southamerica-41ddef88-b816-4d16-a70e-445c24f92e0e",
+    "name": "Autódromo Parque Provincia del Neuquén",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.44,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -38.8541122,
+      "longitude": -68.1535749
+    }
+  },
+  {
+    "id": "southamerica-6d13f29a-c930-4b16-9d26-32b1eeb16b13",
+    "name": "Autódromo de Cabrero",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.98,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -37.0127047,
+      "longitude": -72.3974773
+    }
+  },
+  {
+    "id": "europe-3bce8040-e259-4b7d-a7f7-410891bd3fc0",
+    "name": "Tor Poznań",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.48,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.4184113,
+      "longitude": 16.8070362999999
+    }
+  },
+  {
+    "id": "europe-88404417-98ba-4f8d-bf74-948c5c58991e",
+    "name": "Circuit de Spa-Francorchamps",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 6.9682,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.4369118,
+      "longitude": 5.97205
+    }
+  },
+  {
+    "id": "southamerica-e5c717f8-7203-4c9a-82d1-964e24945e88",
+    "name": "Arica Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.252,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -18.3884699,
+      "longitude": -70.3334945
+    }
+  },
+  {
+    "id": "australia-baf84858-ec48-454d-a0cb-cc5048e587f3",
+    "name": "Mike Pero Motorsport Park Ruapuna",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.1426,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -43.531912,
+      "longitude": 172.486425
+    }
+  },
+  {
+    "id": "northamerica-222b8d3c-e72f-4537-81cf-85fef3d4d451",
+    "name": "Shannonville Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.008,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 44.2247387,
+      "longitude": -77.1591345
+    }
+  },
+  {
+    "id": "northamerica-58947770-fb72-4f37-bef4-03bbb7122249",
+    "name": "Raceway Park of the Midlands/I29 Dragway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.0198166,
+      "longitude": -95.8168426
+    }
+  },
+  {
+    "id": "europe-3ee75772-b8fc-48ba-9ea8-1c2ed75e1be2",
+    "name": "Sviestad motorstadion",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.64741,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 58.3949803,
+      "longitude": 15.7182943
+    }
+  },
+  {
+    "id": "africa-48438965-41cd-4d34-86d6-93746cf1381f",
+    "name": "Killarney Race Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.24,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.8228891,
+      "longitude": 18.5301713
+    }
+  },
+  {
+    "id": "northamerica-a50fb8eb-2042-4d96-934c-7b7d5c725438",
+    "name": "Autódromo Internacional El Jabali",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.12,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 13.8097428,
+      "longitude": -89.3296838
+    }
+  },
+  {
+    "id": "northamerica-ccb4256e-1589-4787-beaf-bb11dc504eec",
+    "name": "Oregon Raceway Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.3116,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.3641908,
+      "longitude": -120.742466
+    }
+  },
+  {
+    "id": "northamerica-4e512fd5-9e35-4b93-8277-2cfb9a1889c4",
+    "name": "Circuito Competencias Parque Viva",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.819,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 9.9736374,
+      "longitude": -84.2481208
+    }
+  },
+  {
+    "id": "northamerica-2c24695b-36c6-4b28-bfaa-064704084f89",
+    "name": "Autodromo Guadalajara",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.60617,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 20.5298901,
+      "longitude": -103.3422374
+    }
+  },
+  {
+    "id": "northamerica-79a9b514-73e4-4cc7-a2aa-17890b33f737",
+    "name": "Circuit Mont-Tremblant",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.65114975,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.1815549,
+      "longitude": -74.6141938
+    }
+  },
+  {
+    "id": "australia-58acf5e4-51f0-4da9-9230-7c3e9bd6f0b9",
+    "name": "Phillip Island Grand Prix Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.761319,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -38.4969348,
+      "longitude": 145.2316062
+    }
+  },
+  {
+    "id": "southamerica-82c0d8a5-a72c-476c-81bc-230dab0f53ae",
+    "name": "Autódromo Santiago Yaco Guarnieri",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.86557,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -27.3877917,
+      "longitude": -59.0035772
+    }
+  },
+  {
+    "id": "northamerica-517aa7ab-5a07-4958-9e60-5715b78feb49",
+    "name": "Motorsport Ranch",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 32.5239005,
+      "longitude": -97.6166751
+    }
+  },
+  {
+    "id": "europe-d9b0f01c-e941-43d1-8cf7-a9e85066b76a",
+    "name": "PS RACING CENTER",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.53,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.317434,
+      "longitude": 15.9821781000001
+    }
+  },
+  {
+    "id": "southamerica-ebcd5038-973d-4998-ae13-ef76debbf52e",
+    "name": "Autódromo Interlomas",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.52,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -38.6204663,
+      "longitude": -72.4667904
+    }
+  },
+  {
+    "id": "371ebdb78be9432dbea0abf88d32f741",
+    "name": "Autobahn Country Club North",
+    "avatar": "autobahn-avatar.png",
+    "avatarPanorama": "autobahn-panorama.jpg",
+    "length": 1.5,
+    "gpsShape": [
+      [
+        41.458126,
+        -88.129394
+      ],
+      [
+        41.462075,
+        -88.126267
+      ],
+      [
+        41.460224,
+        -88.117189
+      ],
+      [
+        41.454368,
+        -88.120964
+      ]
+    ],
+    "configurations": [
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f1067",
+        "name": "Autobahn Country Club South"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f106",
+        "name": "Autobahn Country Club Full"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f741",
+        "name": "Autobahn Country Club North"
+      },
+      {
+        "id": "371ebdb78be9432dbea0abf88d32f742",
+        "name": "Autobahn Country Club Gokart"
+      }
+    ],
+    "finishLinePolygon": [
+      {
+        "latitude": 41.456765494531545,
+        "longitude": -88.12592834803858
+      },
+      {
+        "latitude": 41.45649512256217,
+        "longitude": -88.12610671493808
+      },
+      {
+        "latitude": 41.45643280618635,
+        "longitude": -88.12597931000987
+      },
+      {
+        "latitude": 41.45670317841549,
+        "longitude": -88.12580362531939
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 41.456556,
+      "longitude": -88.125889
+    }
+  },
+  {
+    "id": "europe-8aebacab-6fa0-4818-9a6d-dc781784cca7",
+    "name": "Monza Eni Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4090799,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.621799,
+      "longitude": 9.2848
+    }
+  },
+  {
+    "id": "northamerica-afefad74-befa-427f-8723-bdbbbafcc8c0",
+    "name": "Spring Mountain Motor Resort and Country Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.38,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.1722898,
+      "longitude": -115.9099764
+    }
+  },
+  {
+    "id": "europe-0c781c5f-fe06-4510-b14b-add19f6cd397",
+    "name": "Silverstone Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.86,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.0733006,
+      "longitude": -1.01466340000002
+    }
+  },
+  {
+    "id": "northamerica-052ff6bc-0173-4838-8fd0-1a669e6223a1",
+    "name": "Aspen Racing & Sports Car Club",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.56,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.2680786,
+      "longitude": -106.8802142
+    }
+  },
+  {
+    "id": "europe-ae763a73-e761-4eb2-b074-e32f74458b72",
+    "name": "Hockenheimring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.84541,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.3298956,
+      "longitude": 8.57092490000002
+    }
+  },
+  {
+    "id": "europe-10c01b6b-5958-4739-a30e-c650cbfe607a",
+    "name": "Transilvania Motor Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.7751,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.4294607,
+      "longitude": 24.4226671
+    }
+  },
+  {
+    "id": "europe-778caf40-ef94-478d-8dc2-395e00b32f9e",
+    "name": "Circuit d'Essay",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 48.5463132,
+      "longitude": 0.257921799999963
+    }
+  },
+  {
+    "id": "europe-17730e4c-8254-4510-941b-04abfd01501f",
+    "name": "Botniaring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.52,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 62.6267459,
+      "longitude": 22.017417
+    }
+  },
+  {
+    "id": "southamerica-36d61b50-c21c-417d-8bcc-c5bcc25be5ce",
+    "name": "Road course Pampa (Toay)",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.414,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -36.7293792,
+      "longitude": -64.3488131
+    }
+  },
+  {
+    "id": "southamerica-8f391aaf-7a09-4ed4-8716-328375afbbee",
+    "name": "Autódromo Internacional Orlando Moura",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.80064,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -20.475037,
+      "longitude": -54.4656819
+    }
+  },
+  {
+    "id": "africa-8419bf23-bed5-4d0e-a3de-7fa2607a9ed6",
+    "name": "Dezzi Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.816,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -30.7706051,
+      "longitude": 30.4249156000001
+    }
+  },
+  {
+    "id": "asia-99b4fb99-40c1-402c-b991-846a68c55db4",
+    "name": "Bahrain International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.41,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 26.0316,
+      "longitude": 50.5129
+    }
+  },
+  {
+    "id": "asia-c9e7f950-ccb8-466e-929a-884bc9bf3fd9",
+    "name": "Maze Sea Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.27,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.7442129,
+      "longitude": 138.7988766
+    }
+  },
+  {
+    "id": "northamerica-be2ef538-9877-4259-8646-35d390b8d1f2",
+    "name": "Mid-Ohio Club Course",
+    "avatar": "mo.png",
+    "avatarPanorama": "mo-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": [
+      [
+        40.68421878167378,
+        -82.64077488947567
+      ],
+      [
+        40.688240617548,
+        -82.6315158259719
+      ],
+      [
+        40.695364,
+        -82.630066
+      ],
+      [
+        40.69310806300915,
+        -82.64172768833406
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 40.68965150935797,
+        "longitude": -82.63524796878008
+      },
+      {
+        "latitude": 40.689365761162456,
+        "longitude": -82.63526406203417
+      },
+      {
+        "latitude": 40.68937389635934,
+        "longitude": -82.635414265739
+      },
+      {
+        "latitude": 40.68965608538675,
+        "longitude": -82.6353968313804
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 40.689475040191425,
+      "longitude": -82.63528387699168
+    }
+  },
+  {
+    "id": "europe-1c8c1751-1253-42ac-b5d8-1b6cd4eb8304",
+    "name": "Padborg Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.532,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 54.8723486,
+      "longitude": 9.27794770000003
+    }
+  },
+  {
+    "id": "europe-bbe52ff1-23b9-4d61-a876-bff6e947eb94",
+    "name": "Circuito De Almeria",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.906,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.0851039,
+      "longitude": -2.26672350000001
+    }
+  },
+  {
+    "id": "northamerica-66c83d2b-8f3b-42a3-b66c-4d621ccb2a69",
+    "name": "G2 Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.541,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.3627121,
+      "longitude": -96.4556097
+    }
+  },
+  {
+    "id": "europe-b9f3bcba-da43-4576-be57-43e9bef6b776",
+    "name": "Moscow Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.385,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 55.9982441,
+      "longitude": 36.2682724
+    }
+  },
+  {
+    "id": "southamerica-8e419769-0a3c-457d-aac2-a8a822614d14",
+    "name": "Autódromo Internacional Ayrton Senna",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.845,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -8.2328675,
+      "longitude": -35.9855206
+    }
+  },
+  {
+    "id": "northamerica-c50f89b5-64be-4384-9765-0bde2810e21b",
+    "name": "Roebling Road Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.52059449,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 32.1664749,
+      "longitude": -81.3228847
+    }
+  },
+  {
+    "id": "australia-20b997e1-2cb6-4af6-a1d1-0db26fe63391",
+    "name": "Lakeside Park - Queensland Raceways Pty Ltd",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.318,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -27.2276608,
+      "longitude": 152.9637649
+    }
+  },
+  {
+    "id": "693f9560-cce5-4f73-b13f-2d1b5f1a0a28",
+    "name": "Circuit of the Americas",
+    "avatar": "cota.png",
+    "avatarPanorama": "cota-panorama.png",
+    "length": 3.41,
+    "gpsShape": [
+      [
+        30.134186539190424,
+        -97.6447367418053
+      ],
+      [
+        30.129061134146504,
+        -97.63632546234454
+      ],
+      [
+        30.13766856748842,
+        -97.62287580979226
+      ],
+      [
+        30.14113628357468,
+        -97.6274457086522
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 30.133618425387755,
+        "longitude": -97.64219805690266
+      },
+      {
+        "latitude": 30.133394571452722,
+        "longitude": -97.64240861031033
+      },
+      {
+        "latitude": 30.133312220913645,
+        "longitude": -97.64228656980015
+      },
+      {
+        "latitude": 30.133544194087325,
+        "longitude": -97.64207333418346
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 30.13660847040421,
+      "longitude": -97.63217376506648
+    }
+  },
+  {
+    "id": "northamerica-c9f15167-fe15-438c-b31b-32bede995634",
+    "name": "Pacific Raceways",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.320672,
+      "longitude": -122.147423
+    }
+  },
+  {
+    "id": "europe-66daabd5-2289-433b-97e9-061c0973c8df",
+    "name": "Jarama",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.469,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.616892,
+      "longitude": -3.585286
+    }
+  },
+  {
+    "id": "northamerica-af3c2d36-1a0f-467e-960c-206976192a40",
+    "name": "Pikes Peak International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.5084,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 38.591059,
+      "longitude": -104.677175
+    }
+  },
+  {
+    "id": "northamerica-72d7885d-248c-432f-8e97-5bbde071a7c0",
+    "name": "Hallett Motor Racing Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 36.2174569,
+      "longitude": -96.5889728
+    }
+  },
+  {
+    "id": "northamerica-eda25f19-b048-4896-b812-20a04f61be7f",
+    "name": "Autodrome Montmagny",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.625,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 46.9330413,
+      "longitude": -70.5503261
+    }
+  },
+  {
+    "id": "asia-98a0eda8-d686-4f8c-9c92-bc0c155e0b4e",
+    "name": "Rustavi International Motorpark",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.5713166,
+      "longitude": 44.9488369000001
+    }
+  },
+  {
+    "id": "northamerica-1441e33b-08ef-42e3-b618-df6fee4d78dd",
+    "name": "Homestead-Miami Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.26,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 25.4517775,
+      "longitude": -80.4088955
+    }
+  },
+  {
+    "id": "europe-70a423a2-ea30-47f4-a8ea-f4fae552cb5c",
+    "name": "Autodrom Most",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.3,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.5185942,
+      "longitude": 13.6047629
+    }
+  },
+  {
+    "id": "europe-ecc979f8-2595-4647-b87d-01078e009a0e",
+    "name": "Circuit De Lezennes",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.15,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.6058039,
+      "longitude": 3.12731150000002
+    }
+  },
+  {
+    "id": "northamerica-1ae28881-a6b8-4cf4-b9d8-26b6ccb6fc75",
+    "name": "Spokane County Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.6,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 47.6603438,
+      "longitude": -117.5720166
+    }
+  },
+  {
+    "id": "northamerica-d70d0fbf-9f22-4ce1-a9fa-c3490eae353e",
+    "name": "Palmer Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.2334253,
+      "longitude": -72.2460134
+    }
+  },
+  {
+    "id": "europe-affb3893-2cdb-4b70-95c3-28ef99fe84a2",
+    "name": "Mondello Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.475,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.2575,
+      "longitude": -6.74611110000001
+    }
+  },
+  {
+    "id": "southamerica-ff7a32d9-e7ae-428b-8090-14ef3521bef1",
+    "name": "Autódromo Las Vizcachas",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.008,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.6016085,
+      "longitude": -70.5229763
+    }
+  },
+  {
+    "id": "asia-fd98d43b-649e-4ddf-a103-ae5b4af5d6b2",
+    "name": "Zhuhai International Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.929,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 22.371777,
+      "longitude": 113.558572
+    }
+  },
+  {
+    "id": "northamerica-e339711d-4d34-4bac-b0fe-cf7b706407a9",
+    "name": "New Jersey Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.25,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.3578641,
+      "longitude": -75.0550673
+    }
+  },
+  {
+    "id": "europe-f4e9b6f7-6659-4cbd-a2fd-5789e600966e",
+    "name": "Racepark Meppen",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.621144,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.7605562,
+      "longitude": 7.2801819
+    }
+  },
+  {
+    "id": "northamerica-0b106638-e5ef-4f4d-99e5-1dad1d237f41",
+    "name": "Rocky Mountain Motorsports Race Circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.339,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 51.5591687,
+      "longitude": -114.0080339
+    }
+  },
+  {
+    "id": "northamerica-457fa918-72c5-4b21-8ae7-47e7ada3d871",
+    "name": "Michigan International Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.048,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.0678836,
+      "longitude": -84.2448616
+    }
+  },
+  {
+    "id": "europe-aaa13f57-2637-4000-bbec-a04bc14ad9ef",
+    "name": "Albacete circuit",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.0787,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 39.0066153,
+      "longitude": -1.79386650000004
+    }
+  },
+  {
+    "id": "australia-c91829d0-baaa-4257-9f9b-ea9dd653e2f1",
+    "name": "Wakefield Park Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.94375,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.8409566,
+      "longitude": 149.6873075
+    }
+  },
+  {
+    "id": "northamerica-56cc2aa0-b5d9-4579-ad06-d75b0044ab0c",
+    "name": "Autódromo Pedro Cofiño",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.238,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 14.382507,
+      "longitude": -90.8201751
+    }
+  },
+  {
+    "id": "northamerica-05b20909-ec69-4350-9e9e-e697989b73a9",
+    "name": "Iowa Speedway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.894,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.674667,
+      "longitude": -93.012968
+    }
+  },
+  {
+    "id": "europe-a896fb2a-8844-4641-96be-b1f8015215a8",
+    "name": "Circuito La Torrica Fuente Alamo",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.2060281242370605,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.7465609,
+      "longitude": -1.1915952
+    }
+  },
+  {
+    "id": "europe-02f5bca5-17be-4084-af65-4bcc0c51def3",
+    "name": "Kinnekulle Ring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 58.5436932,
+      "longitude": 13.3943359
+    }
+  },
+  {
+    "id": "southamerica-c95e53fe-36e5-4afb-b75d-01783bc57de7",
+    "name": "Autódromo Sudamericano de Olavarría",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5899999,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -36.859552,
+      "longitude": -60.2515247
+    }
+  },
+  {
+    "id": "europe-091fc6db-5778-46ec-b142-7fb53aca48b7",
+    "name": "Nürburgring",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.17838,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 50.3340981,
+      "longitude": 6.9426625
+    }
+  },
+  {
+    "id": "europe-2b56bdb3-259d-490e-8a17-20cb9280a0a7",
+    "name": "Circuito de Navarra.",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.19,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.558087,
+      "longitude": -2.1668118
+    }
+  },
+  {
+    "id": "2d358a0f-a4e8-4693-b48a-f65d0527dd11",
+    "name": "Putnam Park Road Course",
+    "avatar": "putnam-avatar.png",
+    "avatarPanorama": "putnam-panorama.jpg",
+    "length": 1.78,
+    "gpsShape": [
+      [
+        39.58176937373408,
+        -86.74997099809353
+      ],
+      [
+        39.58634510841645,
+        -86.75015607038203
+      ],
+      [
+        39.5864474665876,
+        -86.73977006303795
+      ],
+      [
+        39.58215001834487,
+        -86.73864573343349
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 39.582469003398636,
+        "longitude": -86.74232664777863
+      },
+      {
+        "latitude": 39.582224039695355,
+        "longitude": -86.74230653121101
+      },
+      {
+        "latitude": 39.58222300609139,
+        "longitude": -86.7426283962928
+      },
+      {
+        "latitude": 39.58244936499022,
+        "longitude": -86.74264918341267
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 39.583391,
+      "longitude": -86.744189
+    }
+  },
+  {
+    "id": "europe-eaf01dd7-b61b-4a44-8652-beebc59f823b",
+    "name": "Circuit Ecuyers",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.1092892,
+      "longitude": 3.5073447
+    }
+  },
+  {
+    "id": "northamerica-229c682d-2d1e-4321-9299-f6e1d1d827ba",
+    "name": "Autódromo Monterrey",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.54,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 25.8611128,
+      "longitude": -100.2182809
+    }
+  },
+  {
+    "id": "northamerica-ac9e77ff-e24d-401f-8595-0cc4dc228f96",
+    "name": "Portland International Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.965,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.5930851,
+      "longitude": -122.6881306
+    }
+  },
+  {
+    "id": "australia-6cd9f775-e999-41ec-9050-7e86a2c99468",
+    "name": "Sydney Motorsport Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.41,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.8063171,
+      "longitude": 150.8707252
+    }
+  },
+  {
+    "id": "europe-c7b0ad62-7ea4-41c7-9933-e08e583a9bfd",
+    "name": "Autódromo Internacional do Algarve",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.907,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 37.2313331,
+      "longitude": -8.62832760000003
+    }
+  },
+  {
+    "id": "europe-01974dc7-0f9b-4bd1-b4b9-3572438c68ef",
+    "name": "Parcmotor Castellolí",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.5077606727,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.5915244,
+      "longitude": 1.68743470000004
+    }
+  },
+  {
+    "id": "africa-046fd019-c4f5-4cef-8791-0d53c3b2a7fe",
+    "name": "Tony Rust Race Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.95,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -22.5669268,
+      "longitude": 17.0027731
+    }
+  },
+  {
+    "id": "northamerica-bf8b07c7-3439-4b29-bc94-29af6f579ce4",
+    "name": "Pocono Race Track",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.5,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 41.0520762,
+      "longitude": -75.5099804
+    }
+  },
+  {
+    "id": "3194c8a7-8c08-4c9b-8b89-e5e0a7ebc42b",
+    "name": "Waterford Hills",
+    "avatar": "wh.png",
+    "avatarPanorama": "wh-panorama.jpeg",
+    "length": 1.5,
+    "gpsShape": [
+      [
+        42.71127466823999,
+        -83.39296398966393
+      ],
+      [
+        42.71107403915822,
+        -83.38889847984059
+      ],
+      [
+        42.70685621453761,
+        -83.38869569828182
+      ],
+      [
+        42.70731620880968,
+        -83.39274941460694
+      ]
+    ],
+    "configurations": null,
+    "finishLinePolygon": [
+      {
+        "latitude": 42.708543938121586,
+        "longitude": -83.39144356826344
+      },
+      {
+        "latitude": 42.708576458347295,
+        "longitude": -83.39110695103207
+      },
+      {
+        "latitude": 42.70851043241664,
+        "longitude": -83.39108549335995
+      },
+      {
+        "latitude": 42.70844317458679,
+        "longitude": -83.391072417591
+      },
+      {
+        "latitude": 42.70842617534349,
+        "longitude": -83.39143082777062
+      }
+    ],
+    "gpsLocation": {
+      "latitude": 42.70857846650725,
+      "longitude": -83.3912557775287
+    }
+  },
+  {
+    "id": "europe-c9c7d7a3-a34f-442a-ba97-b2f93d7f9559",
+    "name": "Писта Дракон, Калояново",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.9625,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 42.340953,
+      "longitude": 24.7362390000001
+    }
+  },
+  {
+    "id": "europe-513fcb05-298b-499e-867d-7aa23ad9461b",
+    "name": "Racetrack Grobnik",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.4607,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.3832159,
+      "longitude": 14.5097923000001
+    }
+  },
+  {
+    "id": "southamerica-2c9087fd-baff-4fc1-af94-a03eeef23d42",
+    "name": "Velopark",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.537606,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -29.82247,
+      "longitude": -51.322116
+    }
+  },
+  {
+    "id": "southamerica-bdb2dc68-26bb-4c74-87ca-036e99258a90",
+    "name": "Autódromo Juan Oria",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 3.168,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -32.6844071,
+      "longitude": -62.1480664
+    }
+  },
+  {
+    "id": "asia-511979f6-0d5b-4dfc-8f18-13d7a9d28ddf",
+    "name": "Intercity İstanbul Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.385,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 40.957914,
+      "longitude": 29.4116749
+    }
+  },
+  {
+    "id": "australia-9171b9cc-da4f-46e2-95ea-718c10dd1cc6",
+    "name": "Queensland Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.1487,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -27.6910665,
+      "longitude": 152.6536812
+    }
+  },
+  {
+    "id": "europe-529300fb-f47c-4233-96f6-dda7f03ce756",
+    "name": "Santa Pod Raceway",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0.812,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 52.23485,
+      "longitude": -0.600091
+    }
+  },
+  {
+    "id": "northamerica-5a5a7893-bb03-491a-b77f-76527a2298f0",
+    "name": "Atlantic Motorsport Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.45,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 45.145,
+      "longitude": -63.448611
+    }
+  },
+  {
+    "id": "southamerica-96db5465-e4e3-4567-bdcc-3d7af32e7c6e",
+    "name": "Autódromo General San Martín",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.258,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -45.9038746,
+      "longitude": -67.5468611
+    }
+  },
+  {
+    "id": "europe-95f72188-430c-4fa0-95d9-14e4d4acc716",
+    "name": "Circuit Folembray",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.009375,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 49.5440272,
+      "longitude": 3.2988466
+    }
+  },
+  {
+    "id": "europe-cf9e3290-ec43-4bcc-aa17-720c028765e8",
+    "name": "The Curragh Racecourse",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2.37,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 53.167717,
+      "longitude": -6.839608
+    }
+  },
+  {
+    "id": "southamerica-320e0de7-31d6-46a9-ae3f-094b1825d7bc",
+    "name": "Autodromo San Antonio",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 2,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -33.664743,
+      "longitude": -71.5598462
+    }
+  },
+  {
+    "id": "northamerica-da8564fb-a692-46cf-b65b-cfbf3fa852ff",
+    "name": "Arizona Motorsports Park",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 1.3615,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": 33.5156012,
+      "longitude": -112.3900938
+    }
+  },
+  {
+    "id": "southamerica-e5ff814b-5864-4fb4-946a-ebe8270e2f82",
+    "name": "Redpagos Provitodo",
+    "avatar": "none.jpg",
+    "avatarPanorama": "none-panorama.jpg",
+    "length": 0,
+    "gpsShape": null,
+    "configurations": null,
+    "finishLinePolygon": null,
+    "gpsLocation": {
+      "latitude": -34.785555,
+      "longitude": -55.92172
+    }
+  }
+]
