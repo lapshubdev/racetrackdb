@@ -16,7 +16,7 @@ The database is stored in a racetracks.json file in this repository. It contains
 - **Name**: The official name of the racetrack.
 - **Avatar**: Path to an image representing the racetrack.
 - **Avatar Panorama**: Path to a panoramic image of the racetrack.
-- **Length**: Track length (in kilometers or miles).
+- **Length**: Track length (in miles).
 - **GPS Shape**: A series of latitude and longitude points outlining the track.
 - **Configurations**: List of different layouts or configurations for the track.
 - **Finish Line Polygon**: Coordinates defining the finish line area.
